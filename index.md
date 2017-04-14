@@ -12,8 +12,9 @@ I am always looking for strong graduate students to collaborate with. If you are
 ### 2017
 
 * **Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks** [[Paper]](/assets/paper/17_cvpr_physically_based.pdf) [[Project]](http://robots.princeton.edu/projects/2016/PBRS/)  
-Yinda Zhang*, Shuran Song*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser  
+Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) , 2017   
+(* equal contribution)  
 
 * **Robust Upright Adjustment of 360 Spherical Panoramas** [[Paper]](/assets/paper/17_cgi_robust_upright.pdf)  
 Jinwoong Jung, Beomseok Kim, Joon-Young Lee, Byungmoon Kim, Seungyong Lee  
@@ -92,8 +93,9 @@ Kibaek Park, Seunghak Shin, Hae-Gon Jeon, Joon-Young Lee, and In So Kweon
 International Conference on Ubiquitous Robots and Ambient Intelligence, 2014  
 
 * **Robust Binary Feature using the Intensity Order** [[Paper]](/assets/paper/14_accv_robust_binary.pdf) [[Project]](https://sites.google.com/site/ykchoicv/feature_bio)  
-Yukyung Choi, Chaehoon Park, Joon-Young Lee, and In So Kweon  
+Yukyung Choi\*, Chaehoon Park\*, Joon-Young Lee, and In So Kweon  
 Asian Conference on Computer Vision (**ACCV**), 2014  
+(* equal contribution)  
 
 * **Auto-adjusting Camera Exposure for Outdoor Robotics using Gradient Information** [[Paper]](/assets/paper/14_iros_auto_adjusting.pdf) [[Video]](https://www.youtube.com/watch?v=OuxQ7xSfn3E)   
 Inwook Shim, Joon-Young Lee, and In So Kweon  
@@ -101,8 +103,8 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 
 
 * **Color Transfer using Probabilistic Moving Least Squares** [[Paper]](/assets/paper/14_cvpr_color_transfer.pdf) [[Video]](https://www.youtube.com/watch?v=O8amvAwB83I)   
 Youngbae Hwang\*, Joon-Young Lee\*, In So Kweon, and Seon Joo Kim  
-(\* denotes co-first authors.)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2014  
+(* equal contribution)  
 
 * **Noise aware depth denoising for a time-of-flight camera** [[Paper]](/assets/paper/14_fcv_noise_aware.pdf)   
 Jiyoung Jung, Joon-Young Lee, and In So Kweon  
