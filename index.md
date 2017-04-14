@@ -9,23 +9,32 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ## Publications
 
-### Preprint
+### 2017
 
-* **Multi-Image Deblurring using Complementary Sets of Fluttering Patterns** [[Paper]](/assets/paper/17_tip_multi_image.pdf)  
-Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, and In So Kweon  
-IEEE Transactions on Image Processing (**TIP**)  
+* **Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks** [[Paper]](/assets/paper/17_cvpr_physically_based.pdf) [[Project]](http://robots.princeton.edu/projects/2016/PBRS/)  
+Yinda Zhang*, Shuran Song*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) , 2017   
 
-* **Light Field Image Super-Resolution using Convolutional Neural Network** [[Paper]](/assets/paper/17_spl_light_field.pdf)  
-Youngjin Yoon, Hae-Gon Jeon, Donggeun Yoo, Joon-Young Lee, and In So Kweon  
-IEEE Signal Processing Letters (**SLP**)   
+* **Robust Upright Adjustment of 360 Spherical Panoramas** [[Paper]](/assets/paper/17_cgi_robust_upright.pdf)  
+Jinwoong Jung, Beomseok Kim, Joon-Young Lee, Byungmoon Kim, Seungyong Lee  
+The Visual Computer Journal (**TVCJ**, Proc. Computer Graphics International), 2017   
 
 * **Generating Fluttering Pattern with Low Autocorrelation for Coded Exposure Imaging** [[Paper]](/assets/paper/17_ijcv_generating_fluttering.pdf)  
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, and In So Kweon  
-International Journal of Computer Vision (**IJCV**)   
+International Journal of Computer Vision (**IJCV**), 2017  
 
-* **Category-specific Salient View Selection via Deep Convolutional Neural Networks** [[Paper]](/assets/paper/17_cgf_category_specific.pdf)   
+* **Light Field Image Super-Resolution using Convolutional Neural Network** [[Paper]](/assets/paper/17_spl_light_field.pdf)  
+Youngjin Yoon, Hae-Gon Jeon, Donggeun Yoo, Joon-Young Lee, and In So Kweon  
+IEEE Signal Processing Letters (**SLP**), 2017   
+
+* **Multi-Image Deblurring using Complementary Sets of Fluttering Patterns** [[Paper]](/assets/paper/17_tip_multi_image.pdf)  
+Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, and In So Kweon  
+IEEE Transactions on Image Processing (**TIP**), 2017  
+
+* **Category-specific Salient View Selection via Deep Convolutional Neural Networks** [[Paper]](/assets/paper/17_cgf_category_specific.pdf)  
 Seong-Heum Kim, Yu-Wing Tai, Joon-Young Lee, Jaesik Park, and In So Kweon  
-Computer Graphics Forum (**CGF**)  
+Computer Graphics Forum (**CGF**), 2017  
+
 
 ### 2016
 
