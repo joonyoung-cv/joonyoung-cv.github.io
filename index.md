@@ -9,9 +9,23 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ## Publications
 
+### 2018
+
+* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
+Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
+
+* **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** <!--[[Paper]](/assets/paper/18_cvpr_color_enhancement.pdf) [[Supp]](/assets/paper/18_cvpr_color_enhancement_supp.pdf)-->  
+Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
+
+* **RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing** [[Paper]](/assets/paper/18_ral_ranus.pdf)  
+Gyeongmin Choe, Seong-Heum Kim, Sunghoon Im, Joon-Young Lee, Srinivasa Narasimhan, and In So Kweon  
+IEEE Robotics and Automation Letters (**RAL**), 2018
+
 ### 2017
 
-* **Reflectance Capture using Univariate Sampling of BRDFs** [[Paper]](/assets/paper/17_iccv_reflectance_capture.pdf) [[Supp]](/assets/paper/17_iccv_reflectance_capture_supp.pdf)  
+* **Reflectance Capture using Univariate Sampling of BRDFs** [[Paper]](/assets/paper/17_iccv_reflectance_capture.pdf) [[Supp]](/assets/paper/17_iccv_reflectance_capture_supp.pdf) [[Poster]](/assets/paper/17_iccv_reflectance_capture_poster.pdf)  
 Zhuo Hui, Kalyan Sunkavalli, Joon-Young Lee, Sunil Hadap, Jian Wang, Aswin C. Sankaranarayanan  
 IEEE International Conference on Computer Vision (**ICCV**), 2017  
 
@@ -22,7 +36,7 @@ Pacific Graphics (**PG**), 2017
 
 * **Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks** [[Paper]](/assets/paper/17_cvpr_physically_based.pdf) [[Project]](http://robots.princeton.edu/projects/2016/PBRS/)  
 Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017  
 (* equal contribution)  
 
 * **Temporal Domain Neural Encoder for Video Representation Learning** [[Paper]](/assets/paper/17_cvprw_temporal_domain.pdf)  
