@@ -11,6 +11,11 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ### 2018
 
+* **Probabilistic Moving Least Squares with Spatial Constraints for 
+Nonlinear Color Transfer Between Images** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
+Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
+Computer Vision and Image Understanding (**CVIU**), 2018  
+
 * **Fast Video Object Segmentation by Reference-Guided Mask Propagation** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
