@@ -18,7 +18,7 @@ Computer Vision and Image Understanding (**CVIU**), 2018
 
 * **Fast Video Object Segmentation by Reference-Guided Mask Propagation** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
 
 * **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** <!--[[Paper]](/assets/paper/18_cvpr_color_enhancement.pdf) [[Supp]](/assets/paper/18_cvpr_color_enhancement_supp.pdf)-->  
 Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon  
@@ -55,7 +55,7 @@ Computer Graphics International (**CGI**), 2017
 
 * **Upright Adjustment of 360 Spherical Panoramas** [[Paper]](/assets/paper/17_vr_upright_adjustment.pdf)  
 Jinwoong Jung, Joon-Young Lee, Byungmoon Kim, Seungyong Lee  
-IEEE Virtual Reality 2017 (**VR**) (Poster), 2017   
+IEEE Virtual Reality 2017 (**VR**), 2017 (Poster)  
 
 * **Generating Fluttering Pattern with Low Autocorrelation for Coded Exposure Imaging** [[Paper]](/assets/paper/17_ijcv_generating_fluttering.pdf)  
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
@@ -82,7 +82,7 @@ European Conference on Computer Vision (**ECCV**), 2016
 
 * **Automatic Content-Aware Color and Tone Stylization** [[Paper]](/assets/paper/16_cvpr_automatic_content.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57UDRmakR2YlRWdXM/view?usp=sharing)   
 Joon-Young Lee, Kalyan Sunkavalli, Zhe Lin, Xiaohui Shen, In So Kweon  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) (Spotlight), 2016   
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**Spotlight**)  
 This is the technology behind the Smart Looks feature in Photoshop Elements 14.
 
 * **Stereo Matching with Color and Monochrome Cameras in Low-light Conditions** [[Paper]](/assets/paper/16_cvpr_stereo_matching.pdf)  
@@ -117,7 +117,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2015
 
 * **One-day outdoor photometric stereo via skylight estimation** [[Paper]](/assets/paper/15_cvpr_one_day.pdf) [[Project]](https://sites.google.com/site/jyjungcv/outdoor_ps)  
 Jiyoung Jung, Joon-Young Lee, In So Kweon  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) (Oral), 2015    
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015 (**Oral**)  
 
 * **Multi-scale Pyramid Pooling for Deep Convolutional Representation** [[Paper]](/assets/paper/15_cvprw_multi_scale.pdf)   
 Donggeun Yoo, Sunggyun Park, Joon-Young Lee, In So Kweon  
