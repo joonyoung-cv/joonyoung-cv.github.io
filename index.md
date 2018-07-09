@@ -33,12 +33,12 @@ Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan
 European Conference on Computer Vision (**ECCV**), 2018  
 
 * **Convolutional Block Attention Module** <!--[[Paper]]() [[Supp]]()-->  
-Jongchan Park*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2018  
 (* equal contribution)  
 
 * **BAM: Bottleneck Attention Module** <!--[[Paper]]() [[Supp]]()-->  
-Jongchan Park*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
 (* equal contribution)  
 
