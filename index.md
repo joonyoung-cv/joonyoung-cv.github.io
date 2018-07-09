@@ -9,18 +9,46 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ## Publications
 
+### Preprint
+
+* **Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images** <!--[[Paper]](/assets/paper/18_cviu_probabilistic_moving.pdf)  -->
+Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
+Computer Vision and Image Understanding (**CVIU**), accepted  
+
+* **Gradient-based Camera Exposure Control for Outdoor Mobile Platforms** [[Paper]](/assets/paper/18_tcsvt_gradient_based)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
+Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted  
+
+
 ### 2018
 
-* **Probabilistic Moving Least Squares with Spatial Constraints for 
-Nonlinear Color Transfer Between Images** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
-Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
-Computer Vision and Image Understanding (**CVIU**), 2018  
+* **What do I Annotate Next? An Empirical Study of Active Learning for Action Localization** <!--[[Paper]]() [[Supp]]()-->  
+Fabian Caba, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
+European Conference on Computer Vision (**ECCV**), 2018  
 
-* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** <!--[[Paper]](/assets/paper/18_cvpr_fast_video.pdf)-->  
+* **Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias** <!--[[Paper]]() [[Supp]]()-->  
+Rameswar Panda, Jianming Zhang, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit K. Roy-Chowdhury  
+European Conference on Computer Vision (**ECCV**), 2018  
+
+* **Learning to Blend Photos** <!--[[Paper]]() [[Supp]]()-->  
+Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan Yang  
+European Conference on Computer Vision (**ECCV**), 2018  
+
+* **Convolutional Block Attention Module** <!--[[Paper]]() [[Supp]]()-->  
+Jongchan Park*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+European Conference on Computer Vision (**ECCV**), 2018  
+(* equal contribution)  
+
+* **BAM: Bottleneck Attention Module** <!--[[Paper]]() [[Supp]]()-->  
+Jongchan Park*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
+(* equal contribution)  
+
+* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** [[Paper]](/assets/paper/18_cvpr_fast_video.pdf)  
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
 
-* **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** <!--[[Paper]](/assets/paper/18_cvpr_color_enhancement.pdf) [[Supp]](/assets/paper/18_cvpr_color_enhancement_supp.pdf)-->  
+* **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** [[Paper]](/assets/paper/18_cvpr_distort_and.pdf) [[Supp]](/assets/paper/18_cvpr_distort_and_supp.pdf)  
 Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
 
