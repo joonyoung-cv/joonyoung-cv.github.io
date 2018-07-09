@@ -16,7 +16,7 @@ I am always looking for strong graduate students to collaborate with. If you are
 Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
 Computer Vision and Image Understanding (**CVIU**), accepted  
 
-* **Gradient-based Camera Exposure Control for Outdoor Mobile Platforms** [[Paper]](/assets/paper/18_tcsvt_gradient_based)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
+* **Gradient-based Camera Exposure Control for Outdoor Mobile Platforms** [[Paper]](/assets/paper/18_tcsvt_gradient_based.pdf)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted  
 
