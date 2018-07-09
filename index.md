@@ -9,18 +9,16 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ## Publications
 
-### Preprint
 
-* **Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images** <!--[[Paper]](/assets/paper/18_cviu_probabilistic_moving.pdf)  -->
+### 2018
+
+* **Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images** <!--[[Paper]](/assets/paper/18_cviu_probabilistic_moving.pdf)  -->  
 Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
 Computer Vision and Image Understanding (**CVIU**), accepted  
 
 * **Gradient-based Camera Exposure Control for Outdoor Mobile Platforms** [[Paper]](/assets/paper/18_tcsvt_gradient_based)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted  
-
-
-### 2018
 
 * **What do I Annotate Next? An Empirical Study of Active Learning for Action Localization** <!--[[Paper]]() [[Supp]]()-->  
 Fabian Caba, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
