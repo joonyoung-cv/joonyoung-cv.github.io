@@ -24,7 +24,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), acce
 Fabian Caba, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* **Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias** [[Paper]](/assets/paper/18_eccv_comtemplating_visual.pdf)  
+* **Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias** [[Paper]](/assets/paper/18_eccv_contemplating_visual.pdf)  
 Rameswar Panda, Jianming Zhang, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit K. Roy-Chowdhury  
 European Conference on Computer Vision (**ECCV**), 2018  
 
@@ -37,7 +37,7 @@ Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon
 European Conference on Computer Vision (**ECCV**), 2018  
 (* equal contribution)  
 
-* **BAM: Bottleneck Attention Module** [[Paper]](/assets/paper/18_bmvc_bottleneck_attention.pdf) [[Project]](https://sites.google.com/view/bottleneck-attention-module)  
+* **BAM: Bottleneck Attention Module** [[Paper]](/assets/paper/18_bmvc_bam.pdf) [[Supp]](/assets/paper/18_bmvc_bam_supp.pdf) [[Project]](https://sites.google.com/view/bottleneck-attention-module)  
 Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
 (* equal contribution)  
