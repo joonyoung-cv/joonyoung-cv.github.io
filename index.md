@@ -20,37 +20,37 @@ Computer Vision and Image Understanding (**CVIU**), accepted
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), accepted  
 
-* **What do I Annotate Next? An Empirical Study of Active Learning for Action Localization** <!--[[Paper]]() [[Supp]]()-->  
+* **What do I Annotate Next? An Empirical Study of Active Learning for Action Localization** [[Paper]](/assets/paper/18_eccv_what_do.pdf)  
 Fabian Caba, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* **Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias** <!--[[Paper]]() [[Supp]]()-->  
+* **Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias** [[Paper]](/assets/paper/18_eccv_comtemplating_visual.pdf)  
 Rameswar Panda, Jianming Zhang, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit K. Roy-Chowdhury  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* **Learning to Blend Photos** <!--[[Paper]]() [[Supp]]()-->  
+* **Learning to Blend Photos** [[Paper]](/assets/paper/18_eccv_learning_to.pdf)  
 Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan Yang  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* **Convolutional Block Attention Module** <!--[[Paper]]() [[Supp]]()-->  
-Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
+* **CBAM: Convolutional Block Attention Module** [[Paper]](/assets/paper/18_eccv_cbam.pdf)  
+Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2018  
 (* equal contribution)  
 
-* **BAM: Bottleneck Attention Module** <!--[[Paper]]() [[Supp]]()-->  
+* **BAM: Bottleneck Attention Module** [[Paper]](/assets/paper/18_bmvc_bottleneck_attention.pdf) [[Project]](https://sites.google.com/view/bottleneck-attention-module)  
 Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
 (* equal contribution)  
 
-* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** [[Paper]](/assets/paper/18_cvpr_fast_video.pdf)  
-Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
-
-* **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** [[Paper]](/assets/paper/18_cvpr_distort_and.pdf) [[Supp]](/assets/paper/18_cvpr_distort_and_supp.pdf)  
+* **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** [[Paper]](/assets/paper/18_cvpr_distort_and.pdf) [[Project]](https://sites.google.com/view/distort-and-recover/)  
 Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018  
 
-* **RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing** [[Paper]](/assets/paper/18_ral_ranus.pdf)  
+* **Fast Video Object Segmentation by Reference-Guided Mask Propagation** [[Paper]](/assets/paper/18_cvpr_fast_video.pdf) [[Code]](https://github.com/seoungwugoh/RGMP)  
+Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
+
+* **RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing** [[Paper]](/assets/paper/18_ral_ranus.pdf) [[Project]](https://sites.google.com/site/gmchoe1/ranus)  
 Gyeongmin Choe, Seong-Heum Kim, Sunghoon Im, Joon-Young Lee, Srinivasa Narasimhan, and In So Kweon  
 IEEE Robotics and Automation Letters (**RAL**), 2018
 
