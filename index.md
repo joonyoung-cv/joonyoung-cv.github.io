@@ -17,6 +17,24 @@ Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim
 Computer Vision and Image Understanding (**CVIU**), accepted  
 -->
 
+* **Learning Video Representations from Correspondence Proposals**   
+Xingyu Liu, Joon-Young Lee, Hailin Jin  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Oral**)
+
+* **Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks**   
+Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
+  
+* **Deep Video Inpainting**   
+Dahun Kim*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
+(* equal contribution)
+
+* **Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence**   
+Dahun Kim*, Sanghyun Woo*, Joon-Young Lee, In So Kweon  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
+(* equal contribution)
+
 * **One-Day Outdoor Photometric Stereo Using Skylight Estimation** [[Paper]](https://rdcu.be/bmtTK)  
 Jiyoung Jung, Joon-Young Lee, In So Kweon  
 International Journal of Computer Vision (**IJCV**), 2019  
