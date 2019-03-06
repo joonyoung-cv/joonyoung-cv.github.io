@@ -39,6 +39,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019
 Jiyoung Jung, Joon-Young Lee, In So Kweon  
 International Journal of Computer Vision (**IJCV**), 2019  
 
+* **Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images** [[Paper]](/assets/paper/19_cviu_probabilistic_moving.pdf)   
+Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
+Computer Vision and Image Understanding (**CVIU**), 2019  
 
 ### 2018
 
