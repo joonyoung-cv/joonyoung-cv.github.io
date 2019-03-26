@@ -132,7 +132,7 @@ European Conference on Computer Vision (**ECCV**), 2016
 * **Automatic Content-Aware Color and Tone Stylization** [[Paper]](/assets/paper/16_cvpr_automatic_content.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57UDRmakR2YlRWdXM/view?usp=sharing)   
 Joon-Young Lee, Kalyan Sunkavalli, Zhe Lin, Xiaohui Shen, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**Spotlight**)  
-*This is the technology behind the Smart Looks feature in Photoshop Elements 14.*
+*This is the technology behind the [Smart Looks](https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html) feature in Photoshop Elements 14.*
 
 * **Stereo Matching with Color and Monochrome Cameras in Low-light Conditions** [[Paper]](/assets/paper/16_cvpr_stereo_matching.pdf)  
 Hae-Gon Jeon, Joon-Young Lee, Sunghoon Im, Hyowon Ha, In So Kweon  
