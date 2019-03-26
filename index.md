@@ -11,11 +11,6 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ### 2019
 
-<!-- 
-* **Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images** [[Paper]](/assets/paper/18_cviu_probabilistic_moving.pdf)   
-Youngbae Hwang, Joon-Young Lee, In So Kweon, Seon Joo Kim  
-Computer Vision and Image Understanding (**CVIU**), accepted  
--->
 
 * **Learning Video Representations from Correspondence Proposals**   
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
@@ -26,14 +21,13 @@ Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
   
 * **Deep Video Inpainting**   
-Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
+Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (* equal contribution)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
-(* equal contribution)
 
 * **Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence**   
-Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
+Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  (* equal contribution)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
-(* equal contribution)
+*Won 1st Place Award in ChalearnLAP Inpainting Challenge Track 2 – video decaptioning*  
 
 * **One-Day Outdoor Photometric Stereo Using Skylight Estimation** [[Paper]](https://rdcu.be/bmtTK)  
 Jiyoung Jung, Joon-Young Lee, In So Kweon  
@@ -59,18 +53,17 @@ Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan
 European Conference on Computer Vision (**ECCV**), 2018  
 
 * **CBAM: Convolutional Block Attention Module** [[Paper]](/assets/paper/18_eccv_cbam.pdf)  
-Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon  
+Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon (* equal contribution)   
 European Conference on Computer Vision (**ECCV**), 2018  
-(* equal contribution)  
 
 * **Gradient-based Camera Exposure Control for Outdoor Mobile Platforms** [[Paper]](https://ieeexplore.ieee.org/document/8379436)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2018  
 
 * **BAM: Bottleneck Attention Module** [[Paper]](/assets/paper/18_bmvc_bam.pdf) [[Supp]](/assets/paper/18_bmvc_bam_supp.pdf) [[Project]](https://sites.google.com/view/bottleneck-attention-module)  
-Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (* equal contribution)   
 British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
-(* equal contribution)  
+*Received Gold Prize, 24th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
 
 * **Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning** [[Paper]](/assets/paper/18_cvpr_distort_and.pdf) [[Project]](https://sites.google.com/view/distort-and-recover/)  
 Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon  
@@ -79,6 +72,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 * **Fast Video Object Segmentation by Reference-Guided Mask Propagation** [[Paper]](/assets/paper/18_cvpr_fast_video.pdf) [[Code]](https://github.com/seoungwugoh/RGMP)  
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
+*Won 1st Place Award in The Interactive DAVIS Challenge 2018*
 
 * **RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing** [[Paper]](/assets/paper/18_ral_ranus.pdf) [[Project]](https://sites.google.com/site/gmchoe1/ranus)  
 Gyeongmin Choe, Seong-Heum Kim, Sunghoon Im, Joon-Young Lee, Srinivasa Narasimhan, and In So Kweon  
@@ -96,9 +90,8 @@ Pacific Graphics (**PG**), 2017
 <!-- Computer Graphics Forum (**CGF**) -->
 
 * **Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks** [[Paper]](/assets/paper/17_cvpr_physically_based.pdf) [[Project]](http://robots.princeton.edu/projects/2016/PBRS/)  
-Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser  
+Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser (* equal contribution)   
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017  
-(* equal contribution)  
 
 * **Temporal Domain Neural Encoder for Video Representation Learning** [[Paper]](/assets/paper/17_cvprw_temporal_domain.pdf)  
 Hao Hu, Zhaowen Wang, Joon-Young Lee, Zhe Lin, Guo-Jun Qi  
@@ -139,11 +132,12 @@ European Conference on Computer Vision (**ECCV**), 2016
 * **Automatic Content-Aware Color and Tone Stylization** [[Paper]](/assets/paper/16_cvpr_automatic_content.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57UDRmakR2YlRWdXM/view?usp=sharing)   
 Joon-Young Lee, Kalyan Sunkavalli, Zhe Lin, Xiaohui Shen, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**Spotlight**)  
-This is the technology behind the Smart Looks feature in Photoshop Elements 14.
+*This is the technology behind the Smart Looks feature in Photoshop Elements 14.*
 
 * **Stereo Matching with Color and Monochrome Cameras in Low-light Conditions** [[Paper]](/assets/paper/16_cvpr_stereo_matching.pdf)  
 Hae-Gon Jeon, Joon-Young Lee, Sunghoon Im, Hyowon Ha, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016  
+Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.
 
 * **Vision System and Depth Processing for DRC-HUBO+** [[Paper]](/assets/paper/16_icra_vision_system.pdf)   
 Inwook Shim, Seunghak Shin, Yunsu Bok, Kyungdon Joo, Dong-Geol Choi, Joon-Young Lee, Jaesik Park, Jun-Ho Oh, In So Kweon  
@@ -157,7 +151,9 @@ IEEE International Conference on Computer Vision (**ICCV**), 2015
 
 * **Complementary Sets of Shutter Sequences for Motion Deblurring** [[Paper]](/assets/paper/15_iccv_complementary_sets.pdf) [[Project]](https://sites.google.com/site/hgjeoncv/complementary_sets)   
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
-IEEE International Conference on Computer Vision (**ICCV**), 2015
+IEEE International Conference on Computer Vision (**ICCV**), 2015  
+*Received Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
+*KAIST Research Highlight of 2013*
 
 * **Learning a Deep Convolutional Network for Light-Field Image Super-Resolution** [[Paper]](/assets/paper/15_iccvw_learning_a.pdf)  
 Youngjin Yoon, Hae-Gon Jeon, Donggeun Yoo, Joon-Young Lee, In So Kweon  
@@ -186,18 +182,16 @@ Kibaek Park, Seunghak Shin, Hae-Gon Jeon, Joon-Young Lee, In So Kweon
 International Conference on Ubiquitous Robots and Ambient Intelligence, 2014  
 
 * **Robust Binary Feature using the Intensity Order** [[Paper]](/assets/paper/14_accv_robust_binary.pdf) [[Project]](https://sites.google.com/site/ykchoicv/feature_bio)  
-Yukyung Choi\*, Chaehoon Park\*, Joon-Young Lee, In So Kweon  
+Yukyung Choi\*, Chaehoon Park\*, Joon-Young Lee, In So Kweon (* equal contribution)   
 Asian Conference on Computer Vision (**ACCV**), 2014  
-(* equal contribution)  
 
 * **Auto-adjusting Camera Exposure for Outdoor Robotics using Gradient Information** [[Paper]](/assets/paper/14_iros_auto_adjusting.pdf) [[Video]](https://www.youtube.com/watch?v=OuxQ7xSfn3E)   
 Inwook Shim, Joon-Young Lee, In So Kweon  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2014  
 
 * **Color Transfer using Probabilistic Moving Least Squares** [[Paper]](/assets/paper/14_cvpr_color_transfer.pdf) [[Video]](https://www.youtube.com/watch?v=O8amvAwB83I)   
-Youngbae Hwang\*, Joon-Young Lee\*, In So Kweon, Seon Joo Kim  
+Youngbae Hwang\*, Joon-Young Lee\*, In So Kweon, Seon Joo Kim (* equal contribution)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2014  
-(* equal contribution)  
 
 * **Noise aware depth denoising for a time-of-flight camera** [[Paper]](/assets/paper/14_fcv_noise_aware.pdf)   
 Jiyoung Jung, Joon-Young Lee, In So Kweon  
@@ -207,6 +201,9 @@ Korea-Japan Joint Workshop on Frontiers of Computer Vision, 2014
 * **High Quality Shape from a Single RGB-D Image under Uncalibrated Natural Illumination** [[Paper]](/assets/paper/13_iccv_high_quality.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57VEpPR0pfemVhVUU/view?usp=sharing) [[Project]](https://sites.google.com/site/jyleecv/rgbd_shape_estimation)  
 Yudeog Han, Joon-Young Lee, In So Kweon  
 IEEE International Conference on Computer Vision (**ICCV**), 2013  
+*Received Silver prize, 19th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
+*Received Qualcomm Innovation Award*  
+*KAIST Research Highlight of 2013*
 
 * **Fluttering Pattern Generation using Modified Legendre Sequence for Coded Exposure Imaging** [[Paper]](/assets/paper/13_iccv_fluttering_pattern.pdf) [[Supp]](/assets/paper/13_iccv_fluttering_pattern_supple.pdf)   
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
