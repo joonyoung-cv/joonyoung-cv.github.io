@@ -137,7 +137,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**S
 * **Stereo Matching with Color and Monochrome Cameras in Low-light Conditions** [[Paper]](/assets/paper/16_cvpr_stereo_matching.pdf)  
 Hae-Gon Jeon, Joon-Young Lee, Sunghoon Im, Hyowon Ha, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016  
-Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.
+*Received Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
 
 * **Vision System and Depth Processing for DRC-HUBO+** [[Paper]](/assets/paper/16_icra_vision_system.pdf)   
 Inwook Shim, Seunghak Shin, Yunsu Bok, Kyungdon Joo, Dong-Geol Choi, Joon-Young Lee, Jaesik Park, Jun-Ho Oh, In So Kweon  
