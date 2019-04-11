@@ -11,6 +11,12 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ### 2019
 
+* **Video Object Segmentation using Space-Time Memory Networks** [[Paper]](https://arxiv.org/abs/1904.00607) [[Demo]](https://www.youtube.com/watch?v=GPVx4Tg9EZ0)   
+Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
+ArXiv, 2019
+* This work was demoed at Adobe MAX 2018 Sneaks as [[Fast Mask]](https://www.youtube.com/watch?v=GPVx4Tg9EZ0) *  
+* Won the GTC 2019 Top Poster Award *
+
 
 * **Learning Video Representations from Correspondence Proposals**   
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
@@ -84,7 +90,7 @@ IEEE Robotics and Automation Letters (**RAL**), 2018
 Zhuo Hui, Kalyan Sunkavalli, Joon-Young Lee, Sunil Hadap, Jian Wang, Aswin C. Sankaranarayanan  
 IEEE International Conference on Computer Vision (**ICCV**), 2017  
 
-* **Photometric Stabilization for Fast-forward Videos** [[Paper]](/assets/paper/17_cgf_photometric_stabilization.pdf)  
+* **Photometric Stabilization for Fast-forward Videos** [[Paper]](/assets/paper/17_pg_photometric_stabilization.pdf)  
 Xuaner Zhang, Joon-Young Lee, Kalyan Sunkavalli, Zhaowen Wang  
 Pacific Graphics (**PG**), 2017  
 <!-- Computer Graphics Forum (**CGF**) -->
@@ -149,7 +155,7 @@ IEEE International Conference on Robotics and Automation (**ICRA**), 2016.
 Donggeun Yoo, Sunggyun Park, Joon-Young Lee, Anthony Paek, In So Kweon  
 IEEE International Conference on Computer Vision (**ICCV**), 2015  
 
-* **Complementary Sets of Shutter Sequences for Motion Deblurring** [[Paper]](/assets/paper/15_iccv_complementary_sets.pdf) [[Project]](https://sites.google.com/site/hgjeoncv/complementary_sets)   
+* **Complementary Sets of Shutter Sequences for Motion Deblurring** [[Paper]](/assets/paper/15_iccv_complementary_sets.pdf)   
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
 IEEE International Conference on Computer Vision (**ICCV**), 2015  
 *Received Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
