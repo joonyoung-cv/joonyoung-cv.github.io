@@ -11,7 +11,7 @@ I am always looking for strong graduate students to collaborate with. If you are
 
 ### 2019
 
-* **Video Object Segmentation using Space-Time Memory Networks** [[Paper]](https://arxiv.org/abs/1904.00607) [[Demo]](https://www.youtube.com/watch?v=GPVx4Tg9EZ0)   
+* **Video Object Segmentation using Space-Time Memory Networks** [[Paper]](https://arxiv.org/abs/1904.00607)   
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 ArXiv, 2019  
 -This work was demoed at Adobe MAX 2018 Sneaks as [Fast Mask](https://www.youtube.com/watch?v=GPVx4Tg9EZ0).   
