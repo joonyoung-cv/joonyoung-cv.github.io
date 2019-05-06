@@ -26,7 +26,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**O
 * Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks   
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
-  
+<sub>
+*-1st Place Award in The Interactive DAVIS Challenge 2018*  
+</sub>
+
 * Deep Video Inpainting   
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (\* equal contribution)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
@@ -83,9 +86,6 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 * Fast Video Object Segmentation by Reference-Guided Mask Propagation [[Paper]](/assets/paper/18_cvpr_fast_video.pdf) [[Code]](https://github.com/seoungwugoh/RGMP)  
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**Spotlight**)  
-<sub>
-*-1st Place Award in The Interactive DAVIS Challenge 2018*  
-</sub>
 
 * RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing [[Paper]](/assets/paper/18_ral_ranus.pdf) [[Project]](https://sites.google.com/site/gmchoe1/ranus)  
 Gyeongmin Choe, Seong-Heum Kim, Sunghoon Im, Joon-Young Lee, Srinivasa Narasimhan, and In So Kweon  
