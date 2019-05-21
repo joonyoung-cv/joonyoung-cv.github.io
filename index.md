@@ -19,7 +19,7 @@ ArXiv, 2019
 *-NVIDIA GTC 2019 Top Poster Award*  
 </sub>
 
-* Learning Video Representations from Correspondence Proposals   
+* Learning Video Representations from Correspondence Proposals [[Paper]](https://arxiv.org/abs/1905.07853)   
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Oral**)
 
@@ -30,7 +30,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019
 *-1st Place Award in The Interactive DAVIS Challenge 2018*  
 </sub>
 
-* Deep Video Inpainting   
+* Deep Video Inpainting [[Paper]](https://arxiv.org/abs/1905.01639)  
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (\* equal contribution)  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 
