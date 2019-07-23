@@ -1,4 +1,4 @@
-I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/). 
+I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. 
 
 I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008.
 
@@ -31,8 +31,7 @@ IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)
 
 * GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment [[Paper]](https://arxiv.org/abs/1809.08287)  
 Xin Ye, Zhe Lin, Joon-Young Lee, Jianming Zhang, Shibin Zheng, Yezhou Yang  
-IEEE Robotics and Automation Letters (**RA-L**), 2019  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2019  
+IEEE Robotics and Automation Letters (**RA-L**, Proc. of **IROS**), 2019  
 
 * Learning Video Representations from Correspondence Proposals [[Paper]](https://arxiv.org/abs/1905.07853) [[Code]](https://github.com/xingyul/cpnet)  
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
