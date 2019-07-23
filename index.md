@@ -1,41 +1,56 @@
-I am a Research Scientist at [Adobe Research](https://research.adobe.com/). 
+I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/). 
 
 I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008.
 
 My research interests include deep learning, computer vision, image/video enhancement, and computational photography.
 
 **Internship.** 
-I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, send me an email with what your research interests are and what you would like to work on during your internship.
+I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
 
-## Publications
+**University Collaboration.**
+I am open to conducting research collaborations with faculties and graduate students in universities. If you would like to discuss more detail, please email me.
+
+## Publications 
+<sup>(* indicates equal contribution)</sup>
 
 ### 2019
 
+* Onion-Peel Networks for Deep Video Completion  [[Paper]]  
+Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim  
+IEEE International Conference on Computer Vision (**ICCV**), 2019  
+
 * Video Object Segmentation using Space-Time Memory Networks [[Paper]](https://arxiv.org/abs/1904.00607)   
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
-ArXiv, 2019  
+IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)  
 <sub>
 *-This work was demoed at Adobe MAX 2018 Sneaks as [Fast Mask](https://www.youtube.com/watch?v=GPVx4Tg9EZ0).*   
+*-Silver Prize, 25th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
 *-NVIDIA GTC 2019 Top Poster Award*  
+*-DAVIS Challenge 2019: 1st place in the interactive track / 4th place in the semi-supervised track*  
 </sub>
 
-* Learning Video Representations from Correspondence Proposals [[Paper]](https://arxiv.org/abs/1905.07853)   
+* GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment [[Paper]](https://arxiv.org/abs/1809.08287)  
+Xin Ye, Zhe Lin, Joon-Young Lee, Jianming Zhang, Shibin Zheng, Yezhou Yang  
+IEEE Robotics and Automation Letters (**RA-L**), 2019  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2019  
+
+* Learning Video Representations from Correspondence Proposals [[Paper]](https://arxiv.org/abs/1905.07853) [[Code]](https://github.com/xingyul/cpnet)  
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Oral**)
 
-* Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks   
+* Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks [[Paper]](https://arxiv.org/abs/1904.09791) [[Code]](https://github.com/seoungwugoh/ivs-demo)  
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 <sub>
 *-1st Place Award in The Interactive DAVIS Challenge 2018*  
 </sub>
 
-* Deep Video Inpainting [[Paper]](https://arxiv.org/abs/1905.01639)  
-Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (\* equal contribution)  
+* Deep Video Inpainting [[Paper]](https://arxiv.org/abs/1905.01639) [[Project]](https://sites.google.com/view/deepvinet/) [[Code]](https://github.com/mcahny/Deep-Video-Inpainting)  
+Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon   
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 
-* Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence   
-Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  (\* equal contribution)  
+* Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[Paper]](https://arxiv.org/abs/1905.02949) [[Project]](https://sites.google.com/view/bvdnet/) [[Code]](https://github.com/shwoo93/video_decaptioning)  
+Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon    
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 <sub>
 *-1st Place Award in ChalearnLAP Inpainting Challenge Track 2 – video decaptioning*
@@ -64,16 +79,16 @@ European Conference on Computer Vision (**ECCV**), 2018
 Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan Yang  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* CBAM: Convolutional Block Attention Module [[Paper]](/assets/paper/18_eccv_cbam.pdf)  
-Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon (\* equal contribution)   
+* CBAM: Convolutional Block Attention Module [[Paper]](/assets/paper/18_eccv_cbam.pdf)  [[Code]](https://sites.google.com/view/bottleneck-attention-module)   
+Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon    
 European Conference on Computer Vision (**ECCV**), 2018  
 
 * Gradient-based Camera Exposure Control for Outdoor Mobile Platforms [[Paper]](https://ieeexplore.ieee.org/document/8379436)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2018  
 
-* BAM: Bottleneck Attention Module [[Paper]](/assets/paper/18_bmvc_bam.pdf) [[Supp]](/assets/paper/18_bmvc_bam_supp.pdf) [[Project]](https://sites.google.com/view/bottleneck-attention-module)  
-Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon (\* equal contribution)   
+* BAM: Bottleneck Attention Module [[Paper]](/assets/paper/18_bmvc_bam.pdf) [[Supp]](/assets/paper/18_bmvc_bam_supp.pdf) [[Code]](https://sites.google.com/view/bottleneck-attention-module)  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon    
 British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
 <sub>
 *-Gold Prize, 24th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
@@ -89,7 +104,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018 (**S
 
 * RANUS: RGB and NIR Urban Scene Dataset for Deep Scene Parsing [[Paper]](/assets/paper/18_ral_ranus.pdf) [[Project]](https://sites.google.com/site/gmchoe1/ranus)  
 Gyeongmin Choe, Seong-Heum Kim, Sunghoon Im, Joon-Young Lee, Srinivasa Narasimhan, and In So Kweon  
-IEEE Robotics and Automation Letters (**RAL**), 2018
+IEEE Robotics and Automation Letters (**RA-L**), 2018
 
 ### 2017
 
@@ -103,7 +118,7 @@ Pacific Graphics (**PG**), 2017
 <!-- Computer Graphics Forum (**CGF**) -->
 
 * Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks [[Paper]](/assets/paper/17_cvpr_physically_based.pdf) [[Project]](http://robots.princeton.edu/projects/2016/PBRS/)  
-Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser (\* equal contribution)   
+Yinda Zhang\*, Shuran Song\*, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, Thomas Funkhouser    
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017  
 
 * Temporal Domain Neural Encoder for Video Representation Learning [[Paper]](/assets/paper/17_cvprw_temporal_domain.pdf)  
@@ -170,7 +185,6 @@ IEEE International Conference on Computer Vision (**ICCV**), 2015
 Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
 IEEE International Conference on Computer Vision (**ICCV**), 2015  
 <sub>
-*-Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.*   
 *-KAIST Research Highlight of 2013*  
 </sub>
 
@@ -201,7 +215,7 @@ Kibaek Park, Seunghak Shin, Hae-Gon Jeon, Joon-Young Lee, In So Kweon
 International Conference on Ubiquitous Robots and Ambient Intelligence, 2014  
 
 * Robust Binary Feature using the Intensity Order [[Paper]](/assets/paper/14_accv_robust_binary.pdf) [[Project]](https://sites.google.com/site/ykchoicv/feature_bio)  
-Yukyung Choi\*, Chaehoon Park\*, Joon-Young Lee, In So Kweon (\* equal contribution)   
+Yukyung Choi\*, Chaehoon Park\*, Joon-Young Lee, In So Kweon    
 Asian Conference on Computer Vision (**ACCV**), 2014  
 
 * Auto-adjusting Camera Exposure for Outdoor Robotics using Gradient Information [[Paper]](/assets/paper/14_iros_auto_adjusting.pdf) [[Video]](https://www.youtube.com/watch?v=OuxQ7xSfn3E)   
@@ -209,7 +223,7 @@ Inwook Shim, Joon-Young Lee, In So Kweon
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2014  
 
 * Color Transfer using Probabilistic Moving Least Squares [[Paper]](/assets/paper/14_cvpr_color_transfer.pdf) [[Video]](https://www.youtube.com/watch?v=O8amvAwB83I)   
-Youngbae Hwang\*, Joon-Young Lee\*, In So Kweon, Seon Joo Kim (\* equal contribution)  
+Youngbae Hwang\*, Joon-Young Lee\*, In So Kweon, Seon Joo Kim   
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2014  
 
 * Noise aware depth denoising for a time-of-flight camera [[Paper]](/assets/paper/14_fcv_noise_aware.pdf)   
