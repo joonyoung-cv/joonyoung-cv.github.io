@@ -15,11 +15,11 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 ### 2019
 
-* Onion-Peel Networks for Deep Video Completion  [[Paper]]  
+* Onion-Peel Networks for Deep Video Completion  [[Paper]](https://arxiv.org/abs/1908.08718) [[Supp]](/assets/paper/19_iccv_onion_peel_supp.pdf) [[Video]](https://youtu.be/bxerAkHAttE) [[Code]](https://github.com/seoungwugoh/opn-demo)  
 Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2019  
 
-* Video Object Segmentation using Space-Time Memory Networks [[Paper]](https://arxiv.org/abs/1904.00607)   
+* Video Object Segmentation using Space-Time Memory Networks [[Paper]](https://arxiv.org/abs/1904.00607) [[Supp]](/assets/paper/19_iccv_video_object_supp.pdf) [[Video]](https://youtu.be/vVZiBEDmgIU)   
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)  
 <sub>
