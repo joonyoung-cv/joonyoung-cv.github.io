@@ -1,8 +1,8 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. 
 
-I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008.
+I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
-My research interests include deep learning, computer vision, image/video enhancement, and computational photography.
+**Professional Activities.** I served/am serving as an Area Chair in ICCV 2019, CVPR 2020, ECCV 2020.
 
 **Internship.** 
 I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
@@ -12,6 +12,15 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 ## Publications 
 <sup>(* indicates equal contribution)</sup>
+
+### 2020
+* A Simple and Light-weight Attention Module for Convolutional Neural Networks  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In-So Kweon  
+International Journal of Computer Vision (IJCV)  
+
+* Recurrent Temporal Aggregation Framework for Deep Video Inpainting  
+Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
 
 ### 2019
 
