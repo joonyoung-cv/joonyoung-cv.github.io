@@ -91,7 +91,7 @@ European Conference on Computer Vision (**ECCV**), 2018
 Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon    
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* Gradient-based Camera Exposure Control for Outdoor Mobile Platforms [[Paper]](https://ieeexplore.ieee.org/document/8379436)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
+* Gradient-based Camera Exposure Control for Outdoor Mobile Platforms [[Paper]](/assets/paper/18_tcsvt_gradient_based)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2018  
 
