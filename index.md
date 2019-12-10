@@ -16,19 +16,19 @@ I am open to conducting research collaborations with faculties and graduate stud
 ### 2020
 * A Simple and Light-weight Attention Module for Convolutional Neural Networks  
 Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In-So Kweon  
-International Journal of Computer Vision (IJCV)  
+International Journal of Computer Vision (**IJCV**)  
 
 * Recurrent Temporal Aggregation Framework for Deep Video Inpainting  
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)  
 
 ### 2019
 
-* Onion-Peel Networks for Deep Video Completion  [[Paper]](https://arxiv.org/abs/1908.08718) [[Supp]](/assets/paper/19_iccv_onion_peel_supp.pdf) [[Video]](https://youtu.be/bxerAkHAttE) [[Code]](https://github.com/seoungwugoh/opn-demo)  
+* Onion-Peel Networks for Deep Video Completion  [[Paper]](/assets/paper/19_iccv_onion_peel.pdf) [[Supp]](/assets/paper/19_iccv_onion_peel_supp.pdf) [[Video]](https://youtu.be/bxerAkHAttE) [[Code]](https://github.com/seoungwugoh/opn-demo)  
 Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2019  
 
-* Video Object Segmentation using Space-Time Memory Networks [[Paper]](https://arxiv.org/abs/1904.00607) [[Supp]](/assets/paper/19_iccv_video_object_supp.pdf) [[Video]](https://youtu.be/vVZiBEDmgIU)   
+* Video Object Segmentation using Space-Time Memory Networks [[Paper]](/assets/paper/19_iccv_video_object.pdf) [[Supp]](/assets/paper/19_iccv_video_object_supp.pdf) [[Video]](https://youtu.be/vVZiBEDmgIU)   
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)  
 <sub>
@@ -38,26 +38,26 @@ IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)
 *-DAVIS Challenge 2019: 1st place in the interactive track / 4th place in the semi-supervised track*  
 </sub>
 
-* GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment [[Paper]](https://arxiv.org/abs/1809.08287)  
+* GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment [[Paper]](/assets/paper/19_iros_gaple_generalizable.pdf)  
 Xin Ye, Zhe Lin, Joon-Young Lee, Jianming Zhang, Shibin Zheng, Yezhou Yang  
 IEEE Robotics and Automation Letters (**RA-L**, Proc. of **IROS**), 2019  
 
-* Learning Video Representations from Correspondence Proposals [[Paper]](https://arxiv.org/abs/1905.07853) [[Code]](https://github.com/xingyul/cpnet)  
+* Learning Video Representations from Correspondence Proposals [[Paper]](/assets/paper/19_cvpr_learning_video.pdf) [[Code]](https://github.com/xingyul/cpnet)  
 Xingyu Liu, Joon-Young Lee, Hailin Jin  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Oral**)
 
-* Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks [[Paper]](https://arxiv.org/abs/1904.09791) [[Code]](https://github.com/seoungwugoh/ivs-demo)  
+* Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks [[Paper]](/assets/paper/19_cvpr_fast_user.pdf) [[Code]](https://github.com/seoungwugoh/ivs-demo)  
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 <sub>
 *-1st Place Award in The Interactive DAVIS Challenge 2018*  
 </sub>
 
-* Deep Video Inpainting [[Paper]](https://arxiv.org/abs/1905.01639) [[Project]](https://sites.google.com/view/deepvinet/) [[Code]](https://github.com/mcahny/Deep-Video-Inpainting)  
+* Deep Video Inpainting [[Paper]](/assets/paper/19_cvpr_deep_video.pdf) [[Project]](https://sites.google.com/view/deepvinet/) [[Code]](https://github.com/mcahny/Deep-Video-Inpainting)  
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon   
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 
-* Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[Paper]](https://arxiv.org/abs/1905.02949) [[Project]](https://sites.google.com/view/bvdnet/) [[Code]](https://github.com/shwoo93/video_decaptioning)  
+* Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[Paper]](/assets/paper/19_cvpr_deep_blind.pdf) [[Project]](https://sites.google.com/view/bvdnet/) [[Code]](https://github.com/shwoo93/video_decaptioning)  
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon    
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
 <sub>
