@@ -31,7 +31,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020
 
 
 * A Simple and Light-weight Attention Module for Convolutional Neural Networks  
-Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In-So Kweon  
+Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 International Journal of Computer Vision (**IJCV**)  
 
 * Recurrent Temporal Aggregation Framework for Deep Video Inpainting  
