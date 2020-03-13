@@ -14,6 +14,21 @@ I am open to conducting research collaborations with faculties and graduate stud
 <sup>(* indicates equal contribution)</sup>
 
 ### 2020
+
+* Video Panoptic Segmentation  
+Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020 (**Oral**)  
+
+
+* Active Speakers in Context  
+Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
+
+* Learning Visual Emotion Representations from Web Data  
+Zijun Wei, Jianming Zhang, Zhe Lin, Joon-Young Lee, Niranjan Balasubramanian, Minh Hoai Nguyen, Dimitris Samaras  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
+
+
 * A Simple and Light-weight Attention Module for Convolutional Neural Networks  
 Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In-So Kweon  
 International Journal of Computer Vision (**IJCV**)  
