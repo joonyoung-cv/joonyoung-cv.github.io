@@ -2,7 +2,8 @@ I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/
 
 I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
-**Professional Activities.** I served/am serving as an Area Chair in ICCV 2019, CVPR 2020, ECCV 2020.
+**Professional Activities.**  
+Area Chair in ICCV 2019, CVPR 2020, ECCV 2020.
 
 **Internship.** 
 I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
