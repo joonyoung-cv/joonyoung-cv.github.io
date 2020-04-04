@@ -20,7 +20,7 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 * History for Visual Dialog: Do we really need it?  
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas, Verena Rieser  
-Annual meeting of the Association for Computational Linguistics, (**ACL**), 2020  
+Annual Meeting of the Association for Computational Linguistics, (**ACL**), 2020  
 
 * Video Panoptic Segmentation  
 Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon  
