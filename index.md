@@ -1,6 +1,4 @@
-I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. 
-
-I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
+I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Professional Activities.**  
 Area Chair in ECCV 2020  
@@ -18,29 +16,28 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 ### 2020
 
-* History for Visual Dialog: Do we really need it?  
+* History for Visual Dialog: Do we really need it? [[Paper]](/assets/paper/20_acl_history_for.pdf)   
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas, Verena Rieser  
 Annual Meeting of the Association for Computational Linguistics, (**ACL**), 2020  
 
-* Video Panoptic Segmentation  
+* Video Panoptic Segmentation [[Paper]](/assets/paper/20_cvpr_video_panoptic.pdf) [[Code/Dataset]](https://github.com/mcahny/vps)  
 Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020 (**Oral**)  
 
-
-* Active Speakers in Context  
+* Active Speakers in Context [[Paper]](/assets/paper/20_cvpr_active_speakers.pdf)   
 Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
 
-* Learning Visual Emotion Representations from Web Data  
+* Learning Visual Emotion Representations from Web Data [[Paper]](/assets/paper/20_cvpr_learning_visual.pdf)   
 Zijun Wei, Jianming Zhang, Zhe Lin, Joon-Young Lee, Niranjan Balasubramanian, Minh Hoai Nguyen, Dimitris Samaras  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
 
 
-* A Simple and Light-weight Attention Module for Convolutional Neural Networks  
+* A Simple and Light-weight Attention Module for Convolutional Neural Networks [[Paper]](/assets/paper/20_ijcv_a_simple.pdf)   
 Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 International Journal of Computer Vision (**IJCV**)  
 
-* Recurrent Temporal Aggregation Framework for Deep Video Inpainting  
+* Recurrent Temporal Aggregation Framework for Deep Video Inpainting [[Paper]](/assets/paper/20_tpami_recurrent_temporal.pdf)   
 Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)  
 
