@@ -24,10 +24,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 European Conference on Computer Vision (**ECCV**), 2020  
 
-* URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark [[Paper]](/)  
-Seonguk Seo, Joon-Young Lee, Bohyung Han  
-European Conference on Computer Vision (**ECCV**), 2020  
-
 * History for Visual Dialog: Do we really need it? [[Paper]](/assets/paper/20_acl_history_for.pdf)   
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas, Verena Rieser  
 Annual Meeting of the Association for Computational Linguistics, (**ACL**), 2020  
