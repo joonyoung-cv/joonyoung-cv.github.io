@@ -16,6 +16,18 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 ### 2020
 
+* Space-time Memory Networks for Video Object Segmentation with User Guidance [[Paper]](/assets/paper/20_tpami_space_time.pdf)  
+Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)  
+
+* URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark [[Paper]](/)  
+Seonguk Seo, Joon-Young Lee, Bohyung Han  
+European Conference on Computer Vision (**ECCV**), 2020  
+
+* URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark [[Paper]](/)  
+Seonguk Seo, Joon-Young Lee, Bohyung Han  
+European Conference on Computer Vision (**ECCV**), 2020  
+
 * History for Visual Dialog: Do we really need it? [[Paper]](/assets/paper/20_acl_history_for.pdf)   
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas, Verena Rieser  
 Annual Meeting of the Association for Computational Linguistics, (**ACL**), 2020  
