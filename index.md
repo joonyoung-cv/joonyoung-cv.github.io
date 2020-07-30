@@ -1,9 +1,7 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Professional Activities.**  
-Area Chair in ECCV 2020  
-Area Chair in CVPR 2020  
-Area Chair in ICCV 2019  
+Area Chair in ICCV 2019, CVPR 2020, ECCV 2020  
 
 **Internship.** 
 I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
@@ -19,6 +17,10 @@ I am open to conducting research collaborations with faculties and graduate stud
 * Space-time Memory Networks for Video Object Segmentation with User Guidance [[Paper]](/assets/paper/20_tpami_space_time.pdf)  
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)  
+
+* Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[Paper]](/)  
+Sanghyun Woo, Dahun Kim, KwanYong Park, Joon-Young Lee, In So Kweon  
+British Machine Vision Conference (**BMVC**), 2020
 
 * URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark [[Paper]](/)  
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
