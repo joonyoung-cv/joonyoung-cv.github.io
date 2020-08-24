@@ -119,7 +119,7 @@ European Conference on Computer Vision (**ECCV**), 2018
 Wei-Chih Hung, Jianming Zhang, Xiaohui Shen, Zhe Lin, Joon-Young Lee, Ming-Hsuan Yang  
 European Conference on Computer Vision (**ECCV**), 2018  
 
-* Gradient-based Camera Exposure Control for Outdoor Mobile Platforms [[Paper]](assets/paper/18_tcsvt_gradient_based)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
+* Gradient-based Camera Exposure Control for Outdoor Mobile Platforms [[Paper]](assets/paper/18_tcsvt_gradient_based.pdf)  [[Project]](https://sites.google.com/site/iwshimcv/home/multicamera/)  
 Inwook Shim, Tae-Hyun Oh, Joon-Young Lee, Dong-Geol Choi, Jinwook Choi, and In So Kweon  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2018  
 
