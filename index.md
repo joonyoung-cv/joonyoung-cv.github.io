@@ -12,6 +12,20 @@ I am open to conducting research collaborations with faculties and graduate stud
 ## Publications 
 <sup>(* indicates equal contribution)</sup>
 
+### 2021
+
+* Learning to Associate Every Segment for Video Panoptic Segmentation [[Paper]]()   
+Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
+
+* Exemplar-Based Open-Set Panoptic Segmentation Network [[Paper]]()   
+Jaedong Hwang, Seoung Wug Oh, Joon-Young Lee, Bohyung Han  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
+
+* Polygonal Point Set Tracking [[Paper]]()   
+Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
+
 ### 2020
 
 * Space-time Memory Networks for Video Object Segmentation with User Guidance [[Paper]](assets/paper/20_tpami_space_time.pdf)  
