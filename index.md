@@ -22,7 +22,7 @@ IEEE Conference on Computer Vision and Pattern Recognition Workshops (**CVPRW**)
 Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
 
-* Exemplar-Based Open-Set Panoptic Segmentation Network [[Paper]](assets/paper/21_cvpr_exemplar_based.pdf)   
+* Exemplar-Based Open-Set Panoptic Segmentation Network [[Paper]](assets/paper/21_cvpr_exemplar_based.pdf) [[Project]](https://cv.snu.ac.kr/research/EOPSN/) [[Code]](https://github.com/jd730/EOPSN)  
 Jaedong Hwang, Seoung Wug Oh, Joon-Young Lee, Bohyung Han  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
 
