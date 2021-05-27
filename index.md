@@ -14,7 +14,7 @@ I am open to conducting research collaborations with faculties and graduate stud
 
 ### 2021
 
-* APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/papers/21_cvprw_apes_audiovisual.pdf)   
+* APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/paper/21_cvprw_apes_audiovisual.pdf)   
 Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (**CVPRW**), 2021  
 
