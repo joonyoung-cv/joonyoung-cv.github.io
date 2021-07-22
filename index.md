@@ -1,7 +1,7 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Professional Activities.**  
-Area Chair in ICCV 2019, CVPR 2020, ECCV 2020  
+Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021   
 
 **Internship.** 
 I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
@@ -13,6 +13,10 @@ I am open to conducting research collaborations with faculties and graduate stud
 <sup>(* indicates equal contribution)</sup>
 
 ### 2021
+
+* Hierarchical Memory Matching Network for Video Object Segmentation  
+Hongje Seong, Seoung Wug Oh, Joon-Young Lee, Seongwon Lee, Suhyeon Lee, Euntai Kim  
+IEEE International Conference on Computer Vision (**ICCV**), 2021  
 
 * APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/paper/21_cvprw_apes_audiovisual.pdf)   
 Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
