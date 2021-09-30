@@ -1,26 +1,40 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
-**Professional Activities.**  
-Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021   
+**Industrial Activities.**  
+* Tech Excellence Award winner @ Adobe, 2021  
+I received the 2021 Tech Excellence Award from Adobe - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*  
+* [Roto Brush 2](https://www.youtube.com/watch?v=FsSazQ1pRBU) in After Effects, 2020  
+This is an object masking tool for video. The core technology of this function is ML-based mask propagation, which I led the research and development.    
+* [Video Smart Tags](https://medium.com/adobetech/how-adobes-enhanced-smart-tags-capability-empowers-marketers-to-find-the-most-relevant-ugc-video-44a50f3ba6c2) in Adobe Experience Manager UGC, 2018  
+This is a video auto-tagging feature that contributed.  
+* [Smart Looks]((https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html)) in Photoshop Elements, 2016  
+This is an one-click creative color adjustment tool. I developed the core technique behind this feature during my internship.  
 
-**Internship.** 
-I am always looking for strong graduate students to collaborate with. If you are interested in interning at Adobe with me, please email me.
 
-**University Collaboration.**
-I am open to conducting research collaborations with faculties and graduate students in universities. If you would like to discuss more detail, please email me.
+**Acamedic Activities.**  
+* Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021  
+* Outstanding Reviewer in CVPR 2021  
+
+**Internship / University Collaboration.**  
+* I am always looking for strong graduate students to collaborate with. If you are interested in collaborating with me, please email me.
+
 
 ## Publications 
 <sup>(* indicates equal contribution)</sup>
 
 ### 2021
 
-* Hierarchical Memory Matching Network for Video Object Segmentation  
+* Studying the Effects of Self-Attention for Medical Image Analysis [[Paper]](assets/paper/21_iccvw_studying_the.pdf)   
+Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
+ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis (**ICCVW-CVAMD**), 2021  
+
+* Hierarchical Memory Matching Network for Video Object Segmentation [[Paper]](assets/paper/21_iccv_hierarchical_memory.pdf)   
 Hongje Seong, Seoung Wug Oh, Joon-Young Lee, Seongwon Lee, Suhyeon Lee, Euntai Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2021  
 
 * APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/paper/21_cvprw_apes_audiovisual.pdf)   
 Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
-IEEE Conference on Computer Vision and Pattern Recognition Workshops (**CVPRW**), 2021  
+Multimodal Learning and Applications Workshop (**CVPRW-MULA**), 2021  
 
 * Learning to Associate Every Segment for Video Panoptic Segmentation [[Paper]](assets/paper/21_cvpr_learning_to.pdf)   
 Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
