@@ -1,6 +1,8 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Industrial Highlights.**  
+* Shot Angle/Size Filters in Stock, 2021  
+
 * Tech Excellence Award @ Adobe, 2021  
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*  
 * [Roto Brush 2](https://www.youtube.com/watch?v=FsSazQ1pRBU) in After Effects, 2020  
@@ -23,6 +25,10 @@ This is an one-click creative color adjustment tool. I developed the core techni
 <sup>(* indicates equal contribution)</sup>
 
 ### 2021
+
+* Global Context and Geometric Priors for Effective Non-Local Self-Attention [[Paper]](assets/paper/21_bmvc_global_context.pdf)   
+Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
+British Machine Vision Conference (**BMVC**), 2021  
 
 * Studying the Effects of Self-Attention for Medical Image Analysis [[Paper]](assets/paper/21_iccvw_studying_the.pdf)   
 Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
