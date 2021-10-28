@@ -30,17 +30,13 @@ This is an one-click creative color adjustment tool. I developed the core techni
 Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
 British Machine Vision Conference (**BMVC**), 2021  
 
-* Studying the Effects of Self-Attention for Medical Image Analysis [[Paper]](assets/paper/21_iccvw_studying_the.pdf)   
-Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
-ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis (**ICCVW-CVAMD**), 2021  
-
 * Hierarchical Memory Matching Network for Video Object Segmentation [[Paper]](assets/paper/21_iccv_hierarchical_memory.pdf)   
 Hongje Seong, Seoung Wug Oh, Joon-Young Lee, Seongwon Lee, Suhyeon Lee, Euntai Kim  
 IEEE International Conference on Computer Vision (**ICCV**), 2021  
 
-* APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/paper/21_cvprw_apes_audiovisual.pdf)   
-Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
-Multimodal Learning and Applications Workshop (**CVPRW-MULA**), 2021  
+* Studying the Effects of Self-Attention for Medical Image Analysis [[Paper]](assets/paper/21_iccvw_studying_the.pdf)   
+Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
+ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis (**ICCVW-CVAMD**), 2021  
 
 * Learning to Associate Every Segment for Video Panoptic Segmentation [[Paper]](assets/paper/21_cvpr_learning_to.pdf)   
 Sanghyun Woo, Dahun Kim, Joon-Young Lee, In So Kweon  
@@ -53,6 +49,11 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021
 * Polygonal Point Set Tracking [[Paper]](assets/paper/21_cvpr_polygonal_point.pdf)   
 Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021  
+
+* APES: Audiovisual Person Search in Untrimmed Video [[Paper]](assets/paper/21_cvprw_apes_audiovisual.pdf)   
+Juan Carlos Leon, Fabian Caba Heilbron, Long Mai, Federico Perazzi, Joon-Young Lee, Pablo Arbelaez, Bernard Ghanem  
+Multimodal Learning and Applications Workshop (**CVPRW-MULA**), 2021  
+
 
 ### 2020
 
