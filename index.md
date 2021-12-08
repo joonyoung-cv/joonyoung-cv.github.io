@@ -2,7 +2,6 @@ I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/
 
 **Industrial Highlights.**  
 * Shot Angle/Size Filters in Stock, 2021  
-
 * Tech Excellence Award @ Adobe, 2021  
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*  
 * [Roto Brush 2](https://www.youtube.com/watch?v=FsSazQ1pRBU) in After Effects, 2020  
@@ -23,6 +22,16 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ## Publications 
 <sup>(* indicates equal contribution)</sup>
+
+### 2022
+
+* Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation  
+Seonguk Seo, Joon-Young Lee, Bohyung Han  
+AAAI Conference on Artifical Intelligence (**AAAI**)  
+
+* CMSNet: Deep Color and Monochrome Stereo  
+Hae-Gon Jeon, Sunghoon Im, Jaesung Choe, Minjun Kang, Joon-Young Lee, Martial Hebert  
+International Journal of Computer Vision (**IJCV**)  
 
 ### 2021
 
