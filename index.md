@@ -32,7 +32,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
 
-* Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation [[Paper]](assets/paper/22_aaai_information_theoretic)  
+* Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation [[Paper]](assets/paper/22_aaai_information_theoretic.pdf)  
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 AAAI Conference on Artifical Intelligence (**AAAI**)  
 
