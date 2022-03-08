@@ -24,7 +24,15 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2022
 
-* Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation  
+* Per-Clip Video Object Segmentation  
+Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
+
+* Unsupervised Learning of De-biased Representation with Pseudo-bias Attribute  
+Seonguk Seo, Joon-Young Lee, Bohyung Han  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
+
+* Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation [[Paper]](assets/paper/22_aaai_information_theoretic)  
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 AAAI Conference on Artifical Intelligence (**AAAI**)  
 
