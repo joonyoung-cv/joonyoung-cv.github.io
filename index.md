@@ -48,6 +48,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
 
+* Integrating Pose and Mask Predictions for Multi-person in Videos [[Paper]](assets/paper/22_cvprw_integrating_pose.pdf)  
+Miran Heo, Sukjun Hwang, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+CVPR 2022 Workshop on Efficient Deep Learning for Computer Vision (**CVPRW-ECV**), 2022  
+
 * Information-Theoretic Bias Reduction from the Causal View of Spurious Correlation [[Paper]](assets/paper/22_aaai_information_theoretic.pdf)  
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 AAAI Conference on Artifical Intelligence (**AAAI**)  
