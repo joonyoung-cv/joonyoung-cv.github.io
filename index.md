@@ -24,11 +24,27 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2022
 
-* Per-Clip Video Object Segmentation  
+* One-Trimap Video Matting  
+Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim, Joon-Young Lee  
+European Conference on Computer Vision (**ECCV**), 2022  
+
+* A Unified Learning Framework for Large Vocabulary Video Object Detection    
+Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
+European Conference on Computer Vision (**ECCV**), 2022  
+
+* Tracking by Associating Clips  
+Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
+European Conference on Computer Vision (**ECCV**), 2022  
+
+* The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing  
+Dawit Mureja Argaw, Fabian Caba, Joon-Young Lee, Markus Woodson, In So Kweon  
+European Conference on Computer Vision (**ECCV**), 2022  
+
+* Per-Clip Video Object Segmentation [[Paper]](assets/paper/22_cvpr_per_clip.pdf) [[Supp]](assets/paper/22_cvpr_per_clip_supp.pdf)  
 Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
 
-* Unsupervised Learning of De-biased Representation with Pseudo-bias Attribute  
+* Unsupervised Learning of De-biased Representation with Pseudo-bias Attribute [[Paper]](assets/paper/22_cvpr_unsupervised_learning.pdf) [[Supp]](assets/paper/22_cvpr_unsupervised_learning_supp.pdf)   
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
 
@@ -36,7 +52,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022
 Seonguk Seo, Joon-Young Lee, Bohyung Han  
 AAAI Conference on Artifical Intelligence (**AAAI**)  
 
-* CMSNet: Deep Color and Monochrome Stereo  
+* CMSNet: Deep Color and Monochrome Stereo [[Paper]](assets/paper/22_ijcv_cmsnet_deep.pdf)  
 Hae-Gon Jeon, Sunghoon Im, Jaesung Choe, Minjun Kang, Joon-Young Lee, Martial Hebert  
 International Journal of Computer Vision (**IJCV**)  
 
