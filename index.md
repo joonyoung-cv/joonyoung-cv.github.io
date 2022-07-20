@@ -13,7 +13,8 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 
 **Acamedic Activities.**  
-* Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021  
+* Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021, BMVC 2022  
+* Co-organizer of Large-scale Video Object Segmentation Challenge Workshop in conjunction with CVPR 2021, CVPR 2022
 * Outstanding Reviewer in CVPR 2021  
 
 **Internship / University Collaboration.** I am always looking for strong graduate students to collaborate with. If you are interested in collaborating with me, please email me.  
@@ -28,7 +29,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
 Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* A Unified Learning Framework for Large Vocabulary Video Object Detection    
+* Bridging Images and Videos: A Simple Learning Framework for Large Vocabulary Video Object Detection  
 Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
@@ -39,6 +40,10 @@ European Conference on Computer Vision (**ECCV**), 2022
 * The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing  
 Dawit Mureja Argaw, Fabian Caba, Joon-Young Lee, Markus Woodson, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2022  
+
+* Dense Pixel-level Interpretation of Dynamic Scenes with Video Panoptic Segmentation  
+Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon  
+IEEE Transactions on Image Processing (**TIP**), 2022  
 
 * Per-Clip Video Object Segmentation [[Paper]](assets/paper/22_cvpr_per_clip.pdf) [[Supp]](assets/paper/22_cvpr_per_clip_supp.pdf)  
 Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
