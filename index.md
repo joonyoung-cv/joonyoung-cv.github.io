@@ -45,7 +45,7 @@ European Conference on Computer Vision (**ECCV**), 2022
 Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[Paper]](assets/paper/22_eccv_the_anatomy.pdf) [[Supp]](assets/paper/22_eccv_the_anatomy_supp.pdf) [[Project]](https://sites.google.com/view/anatomy-of-video-editing/home)  
+* The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[Paper]](assets/paper/22_eccv_the_anatomy.pdf) [[Supp]](assets/paper/22_eccv_the_anatomy_supp.pdf) [[Project]](https://github.com/dawitmureja/AVE)  
 Dawit Mureja Argaw, Fabian Caba, Joon-Young Lee, Markus Woodson, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2022  
 
