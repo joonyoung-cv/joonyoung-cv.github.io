@@ -25,27 +25,35 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2022
 
-* One-Trimap Video Matting  
+* VITA: Video Instance Segmentation via Object Token Association  
+Miran Heo, Sukjun Hwang, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+Neural Information Processing Systems (**NeurIPS**), 2022  
+
+* StylePortraitVideo: Editing Portrait Videos with Expression Optimization  
+Kwanggyoon Seo, Seoung Wug Oh, Jingwan Lu, Joon-Young Lee, Seonghyeon Kim, Junyon Noh  
+Pacific Graphics (**PG**), 2022  
+
+* One-Trimap Video Matting [[Paper]](assets/paper/22_eccv_one_trimap.pdf) [[Supp]](assets/paper/22_eccv_one_trimap_supp.pdf) [[Code]](https://github.com/Hongje/OTVM)   
 Hongje Seong, Seoung Wug Oh, Brian Price, Euntai Kim, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* Bridging Images and Videos: A Simple Learning Framework for Large Vocabulary Video Object Detection  
+* Bridging Images and Videos: A Simple Learning Framework for Large Vocabulary Video Object Detection [[Paper]](assets/paper/22_eccv_bridging_images.pdf) [[Supp]](assets/paper/22_eccv_bridging_images_supp.pdf)  
 Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* Tracking by Associating Clips  
+* Tracking by Associating Clips [[Paper]](assets/paper/22_eccv_tracking_by.pdf)  
 Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing  
+* The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[Paper]](assets/paper/22_eccv_the_anatomy.pdf) [[Supp]](assets/paper/22_eccv_the_anatomy_supp.pdf) [[Project]](https://sites.google.com/view/anatomy-of-video-editing/home)  
 Dawit Mureja Argaw, Fabian Caba, Joon-Young Lee, Markus Woodson, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2022  
 
-* Dense Pixel-level Interpretation of Dynamic Scenes with Video Panoptic Segmentation  
+* Dense Pixel-level Interpretation of Dynamic Scenes with Video Panoptic Segmentation [[Paper]](assets/paper/22_tip_dense_pixel.pdf)   
 Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon  
 IEEE Transactions on Image Processing (**TIP**), 2022  
 
-* Per-Clip Video Object Segmentation [[Paper]](assets/paper/22_cvpr_per_clip.pdf) [[Supp]](assets/paper/22_cvpr_per_clip_supp.pdf)  
+* Per-Clip Video Object Segmentation [[Paper]](assets/paper/22_cvpr_per_clip.pdf) [[Supp]](assets/paper/22_cvpr_per_clip_supp.pdf)  [[Code]](https://github.com/pkyong95/PCVOS)   
 Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022  
 
