@@ -21,12 +21,12 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 
 ## Publications 
-<sup>(* indicates equal contribution)</sup>
+<sup>(\* indicates equal contribution)</sup>
 
 ### 2022
 
 * VITA: Video Instance Segmentation via Object Token Association  
-Miran Heo, Sukjun Hwang, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
 Neural Information Processing Systems (**NeurIPS**), 2022  
 
 * StylePortraitVideo: Editing Portrait Videos with Expression Optimization  
