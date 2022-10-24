@@ -2,15 +2,15 @@ I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/
 
 **Industrial Highlights.**  
 * [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022  
-* Shot Angle/Size Filters in Adobe Stock, 2021  
-* Tech Excellence Award @ Adobe, 2021  
+* [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021  
+* [Tech Excellence Award](#) at Adobe, 2021  
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*  
 * [Roto Brush 2](https://youtu.be/FsSazQ1pRBU) in After Effects, 2020  
 This is an object masking tool for video. The core technology behind this feature is ML-based mask propagation, which I led the research and development.    
 * [#ProjectFastmask](https://youtu.be/GPVx4Tg9EZ0) at Adobe MAX Sneaks, 2018  
 * [Video Smart Tags](https://medium.com/adobetech/how-adobes-enhanced-smart-tags-capability-empowers-marketers-to-find-the-most-relevant-ugc-video-44a50f3ba6c2) in Adobe Experience Manager UGC, 2018  
 This is a video auto-tagging feature that I contributed.  
-* [Smart Looks]((https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html)) in Photoshop Elements, 2016  
+* [Smart Looks](https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html) in Photoshop Elements, 2016  
 This is an one-click creative color adjustment tool. I developed the core technique behind this feature.  
 
 
