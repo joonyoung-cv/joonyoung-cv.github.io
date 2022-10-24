@@ -1,11 +1,13 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Industrial Highlights.**  
+* [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022  
 * Shot Angle/Size Filters in Adobe Stock, 2021  
 * Tech Excellence Award @ Adobe, 2021  
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*  
-* [Roto Brush 2](https://www.youtube.com/watch?v=FsSazQ1pRBU) in After Effects, 2020  
+* [Roto Brush 2](https://youtu.be/FsSazQ1pRBU) in After Effects, 2020  
 This is an object masking tool for video. The core technology behind this feature is ML-based mask propagation, which I led the research and development.    
+* [#ProjectFastmask](https://youtu.be/GPVx4Tg9EZ0) at Adobe MAX Sneaks, 2018  
 * [Video Smart Tags](https://medium.com/adobetech/how-adobes-enhanced-smart-tags-capability-empowers-marketers-to-find-the-most-relevant-ugc-video-44a50f3ba6c2) in Adobe Experience Manager UGC, 2018  
 This is a video auto-tagging feature that I contributed.  
 * [Smart Looks]((https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html)) in Photoshop Elements, 2016  
@@ -24,6 +26,15 @@ This is an one-click creative color adjustment tool. I developed the core techni
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2022
+
+
+* VideoMap: Video Editing in Latent Space [[Project]](https://humanvideointeraction.github.io/videomap/)   
+David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
+NeurIPS 2022 Workshop on Machine Learning for Creativity and Design, 2022  
+
+* Videogenic: Video Highlights via Photogenic Moments [[Project]](https://humanvideointeraction.github.io/videogenic/)   
+David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
+NeurIPS 2022 Workshop on Machine Learning for Creativity and Design, 2022  
 
 * VITA: Video Instance Segmentation via Object Token Association  
 Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
@@ -46,7 +57,7 @@ Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee
 European Conference on Computer Vision (**ECCV**), 2022  
 
 * The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[Paper]](assets/paper/22_eccv_the_anatomy.pdf) [[Supp]](assets/paper/22_eccv_the_anatomy_supp.pdf) [[Project]](https://github.com/dawitmureja/AVE)  
-Dawit Mureja Argaw, Fabian Caba, Joon-Young Lee, Markus Woodson, In So Kweon  
+Dawit Mureja Argaw, Fabian Caba Heilbron, Joon-Young Lee, Markus Woodson, In So Kweon  
 European Conference on Computer Vision (**ECCV**), 2022  
 
 * Dense Pixel-level Interpretation of Dynamic Scenes with Video Panoptic Segmentation [[Paper]](assets/paper/22_tip_dense_pixel.pdf)   
@@ -200,7 +211,7 @@ Sanghyun Woo\*, Jongchan Park\*, Joon-Young Lee, In So Kweon
 European Conference on Computer Vision (**ECCV**), 2018  
 
 * What do I Annotate Next? An Empirical Study of Active Learning for Action Localization [[Paper]](assets/paper/18_eccv_what_do.pdf)  
-Fabian Caba, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
+Fabian Caba Heilbron, Joon-Young Lee, Hailin Jin, Bernard Ghanem  
 European Conference on Computer Vision (**ECCV**), 2018  
 
 * Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[Paper]](assets/paper/18_eccv_contemplating_visual.pdf)  
