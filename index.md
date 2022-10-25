@@ -27,6 +27,9 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2022
 
+* VITA: Video Instance Segmentation via Object Token Association  
+Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+Neural Information Processing Systems (**NeurIPS**), 2022  
 
 * VideoMap: Video Editing in Latent Space [[Project]](https://humanvideointeraction.github.io/videomap/)   
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
@@ -35,10 +38,6 @@ NeurIPS 2022 Workshop on Machine Learning for Creativity and Design (**NeurIPS W
 * Videogenic: Video Highlights via Photogenic Moments [[Project]](https://humanvideointeraction.github.io/videogenic/)   
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
 NeurIPS 2022 Workshop on Machine Learning for Creativity and Design (**NeurIPS Workshop-ML4CD**), 2022  
-
-* VITA: Video Instance Segmentation via Object Token Association  
-Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
-Neural Information Processing Systems (**NeurIPS**), 2022  
 
 * StylePortraitVideo: Editing Portrait Videos with Expression Optimization  
 Kwanggyoon Seo, Seoung Wug Oh, Jingwan Lu, Joon-Young Lee, Seonghyeon Kim, Junyon Noh  
