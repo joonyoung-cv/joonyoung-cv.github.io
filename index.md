@@ -30,11 +30,11 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 * VideoMap: Video Editing in Latent Space [[Project]](https://humanvideointeraction.github.io/videomap/)   
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
-NeurIPS 2022 Workshop on Machine Learning for Creativity and Design, 2022  
+NeurIPS 2022 Workshop on Machine Learning for Creativity and Design (**NeurIPS Workshop-ML4CD**), 2022  
 
 * Videogenic: Video Highlights via Photogenic Moments [[Project]](https://humanvideointeraction.github.io/videogenic/)   
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
-NeurIPS 2022 Workshop on Machine Learning for Creativity and Design, 2022  
+NeurIPS 2022 Workshop on Machine Learning for Creativity and Design (**NeurIPS Workshop-ML4CD**), 2022  
 
 * VITA: Video Instance Segmentation via Object Token Association  
 Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
