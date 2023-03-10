@@ -25,9 +25,19 @@ This is an one-click creative color adjustment tool. I developed the core techni
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
+### 2023
+
+* A Generalized Framework for Video Instance Segmentation  
+Miran Heo, Sukjun Hwang, Jeongseok Hyun, Hanjung Kim, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023  
+
+* Mask-guided Matting in the Wild  
+Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023  
+
 ### 2022
 
-* VITA: Video Instance Segmentation via Object Token Association  
+* VITA: Video Instance Segmentation via Object Token Association [[Paper]](assets/paper/22_neurips_vita.pdf)   
 Miran Heo\*, Sukjun Hwang\*, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
 Neural Information Processing Systems (**NeurIPS**), 2022  
 
