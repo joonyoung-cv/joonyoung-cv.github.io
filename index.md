@@ -1,6 +1,8 @@
 I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
 
 **Industrial Highlights.**  
+* [Roto Brush 3](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023
+* [Remove Video Background]() in Adobe Express, 2023
 * [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022  
 * [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021  
 * [Tech Excellence Award](#) at Adobe, 2021  
@@ -15,7 +17,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 
 **Acamedic Activities.**  
-* Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021, BMVC 2022  
+* Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021/2022/2023    
 * Co-organizer of Large-scale Video Object Segmentation Challenge Workshop in conjunction with CVPR 2021, CVPR 2022
 * Outstanding Reviewer in CVPR 2021  
 
@@ -26,6 +28,26 @@ This is an one-click creative color adjustment tool. I developed the core techni
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2023
+
+* Tracking Anything with Decoupled Video Segmentation [[Paper]]() [[Project]]()  
+Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee  
+IEEE International Conference on Computer Vision (**ICCV**), 2023
+
+* XMem++: Production-level Video Segmentation From Few Annotated Frames [[Paper]]() [[Project]]()  
+Maksym Bekuzarov\*, Ariana Bermudez\*, Joon-Young Lee, Hao Li  
+IEEE International Conference on Computer Vision (**ICCV**), 2023
+
+* Long-range Multimodal Pretraining for Movie Understanding [[Paper]]() [[Project]]()  
+Dawit Mureja Argaw, Fabian Caba Heilbron, Joon-Young Lee, Markus Woodson, In So Kweon  
+IEEE International Conference on Computer Vision (**ICCV**), 2023  
+
+* Studying the Impact of Augmentations on Medical Confidence Calibration [[Paper]]()  
+Adrit Rao, Joon-Young Lee, Oliver Aalami  
+ICCV 2023 Workshop on Computer Vision for Automated Medical Diagnosis (**ICCVW-CVAMD**), 2023  
+
+* INVE: Interactive Neural Video Editing [[Paper]](https://arxiv.org/abs/2307.07663) [[Project]](https://gabriel-huang.github.io/inve/)  
+Jiahui Huang, Leonid Sigal, Kwang Moo Yi, Oliver Wang, Joon-Young Lee  
+Computer Graphics International (**CGI**), 2023
 
 * A Generalized Framework for Video Instance Segmentation [[Paper]](assets/paper/23_cvpr_a_generalized.pdf) [[Supp]](assets/paper/23_cvpr_a_generalized_supp.pdf) [[Code]](https://github.com/miranheo/GenVIS)  
 Miran Heo, Sukjun Hwang, Jeongseok Hyun, Hanjung Kim, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
