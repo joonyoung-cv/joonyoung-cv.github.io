@@ -1,8 +1,8 @@
-I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning.
+<!-- I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning. -->
 
 **Industrial Highlights.**  
 * [Roto Brush 3](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023
-* [Remove Video Background]() in Adobe Express, 2023
+* [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023
 * [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022  
 * [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021  
 * [Tech Excellence Award](#) at Adobe, 2021  
@@ -16,10 +16,10 @@ This is a video auto-tagging feature that I contributed.
 This is an one-click creative color adjustment tool. I developed the core technique behind this feature.  
 
 
-**Acamedic Activities.**  
+<!-- **Acamedic Activities.**  
 * Area Chair in ICCV 2019, CVPR 2020, ECCV 2020, BMVC 2021/2022/2023    
 * Co-organizer of Large-scale Video Object Segmentation Challenge Workshop in conjunction with CVPR 2021, CVPR 2022
-* Outstanding Reviewer in CVPR 2021  
+* Outstanding Reviewer in CVPR 2021   -->
 
 **Internship / University Collaboration.** I am always looking for strong graduate students to collaborate with. If you are interested in collaborating with me, please email me.  
 
@@ -29,15 +29,15 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2023
 
-* Tracking Anything with Decoupled Video Segmentation [[Paper]]() [[Project]]()  
+* Tracking Anything with Decoupled Video Segmentation [[Paper]](assets/paper/23_iccv_tracking_anything.pdf) [[Project]](https://hkchengrex.com/Tracking-Anything-with-DEVA/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee  
 IEEE International Conference on Computer Vision (**ICCV**), 2023
 
-* XMem++: Production-level Video Segmentation From Few Annotated Frames [[Paper]]() [[Project]]()  
+* XMem++: Production-level Video Segmentation From Few Annotated Frames [[Paper]](assets/paper/23_iccv_xmem++_production.pdf) [[Project]](https://xmem2.surge.sh/)  
 Maksym Bekuzarov\*, Ariana Bermudez\*, Joon-Young Lee, Hao Li  
 IEEE International Conference on Computer Vision (**ICCV**), 2023
 
-* Long-range Multimodal Pretraining for Movie Understanding [[Paper]]() [[Project]]()  
+* Long-range Multimodal Pretraining for Movie Understanding [[Paper]](assets/paper/23_iccv_long_range.pdf) [[Project]](https://github.com/dawitmureja/LMP)  
 Dawit Mureja Argaw, Fabian Caba Heilbron, Joon-Young Lee, Markus Woodson, In So Kweon  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 
