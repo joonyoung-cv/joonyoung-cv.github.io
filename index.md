@@ -38,7 +38,7 @@ Maksym Bekuzarov\*, Ariana Bermudez\*, Joon-Young Lee, Hao Li
 IEEE International Conference on Computer Vision (**ICCV**), 2023
 
 * Long-range Multimodal Pretraining for Movie Understanding [[Paper]](assets/paper/23_iccv_long_range.pdf) [[Project]](https://github.com/dawitmureja/LMP)  
-Dawit Mureja Argaw, Fabian Caba Heilbron, Joon-Young Lee, Markus Woodson, In So Kweon  
+Dawit Mureja Argaw, Joon-Young Lee, Markus Woodson, In So Kweon, Fabian Caba Heilbron  
 IEEE International Conference on Computer Vision (**ICCV**), 2023  
 
 * Studying the Impact of Augmentations on Medical Confidence Calibration [[Paper]]()  
