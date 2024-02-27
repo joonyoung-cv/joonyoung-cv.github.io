@@ -1,7 +1,7 @@
 <!-- I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning. -->
 
 **Industrial Highlights.**  
-* [Roto Brush 3](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023
+* [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023
 * [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023
 * [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022  
 * [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021  
@@ -29,13 +29,31 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2023
 
+* Putting the Object Back into Video Object Segmentation [[Paper]](https://arxiv.org/abs/2310.12982) [[Project]](https://hkchengrex.com/Cutie/)  
+Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+
+* FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking  
+Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+
+* Masked Guided Instance Matting for Human Images and Videos  
+Chuong Minh Huynh, Seoung Wug Oh, Abhinav Shrivastava, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+
+* Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models  
+Gihyun Kwon, Simon Jenni, Dingzeyu Li, Joon-Young Lee, Jong Chul Ye, Fabian Caba Heilbron  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+
+### 2023
+
 * Tracking Anything with Decoupled Video Segmentation [[Paper]](assets/paper/23_iccv_tracking_anything.pdf) [[Project]](https://hkchengrex.com/Tracking-Anything-with-DEVA/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee  
-IEEE International Conference on Computer Vision (**ICCV**), 2023
+IEEE International Conference on Computer Vision (**ICCV**), 2023  
 
 * XMem++: Production-level Video Segmentation From Few Annotated Frames [[Paper]](assets/paper/23_iccv_xmem++_production.pdf) [[Project]](https://xmem2.surge.sh/)  
 Maksym Bekuzarov\*, Ariana Bermudez\*, Joon-Young Lee, Hao Li  
-IEEE International Conference on Computer Vision (**ICCV**), 2023
+IEEE International Conference on Computer Vision (**ICCV**), 2023  
 
 * Long-range Multimodal Pretraining for Movie Understanding [[Paper]](assets/paper/23_iccv_long_range.pdf) [[Project]](https://github.com/dawitmureja/LMP)  
 Dawit Mureja Argaw, Joon-Young Lee, Markus Woodson, In So Kweon, Fabian Caba Heilbron  
