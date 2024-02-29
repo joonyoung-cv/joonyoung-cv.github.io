@@ -27,7 +27,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
-### 2023
+### 2024
 
 * Putting the Object Back into Video Object Segmentation [[Paper]](https://arxiv.org/abs/2310.12982) [[Project]](https://hkchengrex.com/Cutie/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing  
