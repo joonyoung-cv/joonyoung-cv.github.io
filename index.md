@@ -28,6 +28,13 @@ This is an one-click creative color adjustment tool. I developed the core techni
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2024
+* VideoMap: Supporting Video Editing Exploration, Brainstorming, and Prototyping in the Latent Space  
+David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
+ACM Conference on Creativity \& Cognition (**C\&C**), 2024  
+
+* Videogenic: Identifying Highlight Moments in Videos with Professional Photographs as a Prior  
+David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
+ACM Conference on Creativity \& Cognition (**C\&C**), 2024  
 
 * Putting the Object Back into Video Object Segmentation [[Paper]](https://arxiv.org/abs/2310.12982) [[Project]](https://hkchengrex.com/Cutie/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing  
@@ -44,6 +51,10 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 * Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models  
 Gihyun Kwon, Simon Jenni, Dingzeyu Li, Joon-Young Lee, Jong Chul Ye, Fabian Caba Heilbron  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+
+* IMIL: Interactive Medical Image Learning Framework  
+Adrit Rao, Andrea Fisher, Ken Chang, John Panagides, Katherine McNamara, Joon-Young Lee, Oliver Aalami  
+CVPR 2024 Workshop on Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (**CVPRW-DEF-AI-MIA**), 2024  
 
 ### 2023
 
