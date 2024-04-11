@@ -30,11 +30,11 @@ This is an one-click creative color adjustment tool. I developed the core techni
 ### 2024
 * VideoMap: Supporting Video Editing Exploration, Brainstorming, and Prototyping in the Latent Space  
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
-ACM Conference on Creativity \& Cognition (**C\&C**), 2024  
+ACM Conference on Creativity & Cognition (**C&C**), 2024  
 
 * Videogenic: Identifying Highlight Moments in Videos with Professional Photographs as a Prior  
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
-ACM Conference on Creativity \& Cognition (**C\&C**), 2024  
+ACM Conference on Creativity & Cognition (**C&C**), 2024  
 
 * Putting the Object Back into Video Object Segmentation [[Paper]](https://arxiv.org/abs/2310.12982) [[Project]](https://hkchengrex.com/Cutie/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing  
