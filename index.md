@@ -44,7 +44,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
 
-* Masked Guided Instance Matting for Human Images and Videos  
+* MaGGIe: Masked Guided Gradual Human Instance Matting  
 Chuong Minh Huynh, Seoung Wug Oh, Abhinav Shrivastava, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
 
