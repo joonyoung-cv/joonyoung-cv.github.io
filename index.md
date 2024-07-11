@@ -47,7 +47,7 @@ ACM Conference on Creativity & Cognition (**C&C**), 2024
 
 * Putting the Object Back into Video Object Segmentation [[Paper]](https://arxiv.org/abs/2310.12982) [[Project]](https://hkchengrex.com/Cutie/)  
 Ho Kei Cheng, Seoung Wug Oh, Brian Price, Joon-Young Lee, Alexander Schwing  
-IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 (**Highlight**)  
 
 * FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking  
 Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
