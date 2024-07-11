@@ -28,6 +28,15 @@ This is an one-click creative color adjustment tool. I developed the core techni
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2024
+
+* Local All-Pair Correspondence for Point Tracking  
+Seokju Cho, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, Joon-Young Lee  
+European Conference on Computer Vision (**ECCV**), 2024  
+
+* Harnessing Text-to-Image Models for Video Generation  
+Mingi Kwon, Seoung Wug Oh, Yang Zhou, Difan Liu, Joon-Young Lee, Haoran Cai, Baqiao Liu, Feng Liu, Youngjung Uh  
+European Conference on Computer Vision (**ECCV**), 2024  
+
 * VideoMap: Supporting Video Editing Exploration, Brainstorming, and Prototyping in the Latent Space  
 David Chuan-En Lin, Fabian Caba Heilbron, Joon-Young Lee, Oliver Wang, Nikolas Martelaro  
 ACM Conference on Creativity & Cognition (**C&C**), 2024  
