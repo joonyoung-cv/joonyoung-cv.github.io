@@ -27,9 +27,23 @@ This is an one-click creative color adjustment tool. I developed the core techni
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
+### 2025
+
+* Robust and Consistent Online Video Instance Segmentation via Instance Mask Propagation  
+Miran Heo, Seoung Wug Oh, Seon Joo Kim, Joon-Young Lee  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025  
+
+* Elevating Flow-Guided Video Inpainting with Reference Generation  
+Suhwan Cho, Seoung Wug Oh, Sangyoun Lee, Joon-Young Lee  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025  
+
+* Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization  
+Jeongseok Hyun, Su Ho Han, Hyolim Kang, Joon-Young Lee, Seon Joo Kim  
+IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2025  
+
 ### 2024
 
-* Local All-Pair Correspondence for Point Tracking  
+* Local All-Pair Correspondence for Point Tracking [[Project]](https://cvlab-kaist.github.io/locotrack/)   
 Seokju Cho, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim, Joon-Young Lee  
 European Conference on Computer Vision (**ECCV**), 2024  
 
@@ -53,7 +67,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024 (**H
 Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
 
-* MaGGIe: Masked Guided Gradual Human Instance Matting  
+* MaGGIe: Masked Guided Gradual Human Instance Matting [[Project]](https://maggie-matt.github.io/)  
 Chuong Minh Huynh, Seoung Wug Oh, Abhinav Shrivastava, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
 
