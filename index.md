@@ -29,6 +29,22 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2025
 
+* EntitySAM: Segment Everything in Video  
+Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+
+* Seurat: From Moving Points to Depth  
+Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+
+* Exploring Temporally-Aware Features for Point Tracking  
+Inès Hyeonsu Kim, Seokju Cho, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+
+* Generative Video Propagation  
+Shaoteng Liu, Tianyu Wang, Jui-Hsien Wang, Qing Liu, Zhifei Zhang, Joon-Young Lee, Yijun Li, Bei Yu, Zhe Lin, Soo Ye Kim, Jiaya Jia  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+
 * Robust and Consistent Online Video Instance Segmentation via Instance Mask Propagation  
 Miran Heo, Seoung Wug Oh, Seon Joo Kim, Joon-Young Lee  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025  
