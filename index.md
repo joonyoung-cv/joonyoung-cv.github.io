@@ -29,6 +29,14 @@ This is an one-click creative color adjustment tool. I developed the core techni
 
 ### 2025
 
+* Video Color Grading via Look-Up Table Generation  
+Seunghyun Shin, Dongmin Shin, Jisu Shin, Hae-Gon Jeon, Joon-Young Lee  
+IEEE International Conference on Computer Vision (**ICCV**), 2025  
+
+* Training-Free Acceleration of Video LLMs via Multi-Granular Spatio-Temporal Token Merging  
+Jeongseok Hyun, Sukjun Hwang, Su Ho Han, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Joon-Young Lee, Seon Joo Kim, Minho Shim  
+IEEE International Conference on Computer Vision (**ICCV**), 2025  
+
 * EntitySAM: Segment Everything in Video  
 Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
