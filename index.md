@@ -43,7 +43,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Seurat: From Moving Points to Depth**  
     Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee  
-    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (**Highlight**)  
   
 *   **Exploring Temporally-Aware Features for Point Tracking**  
     Inès Hyeonsu Kim, Seokju Cho, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim  
