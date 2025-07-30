@@ -1,4 +1,7 @@
 <!-- I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning. -->  
+
+**Open to Chat.** For informal networking, collaboration, and career discussions, [schedule time](https://cal.com/joonyoung).
+
   
 **Industrial Highlights.**    
 * [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023  
@@ -22,7 +25,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
 * Outstanding Reviewer in CVPR 2021   -->  
   
 **Internship / University Collaboration.** I am always looking for strong graduate students to collaborate with. If you are interested in collaborating with me, please email me.    
-  
+
   
 ## Publications   
 <sup>(\* indicates equal contribution)</sup>  
@@ -37,6 +40,10 @@ This is an one-click creative color adjustment tool. I developed the core techni
     Jeongseok Hyun, Sukjun Hwang, Su Ho Han, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Joon-Young Lee, Seon Joo Kim, Minho Shim  
     IEEE International Conference on Computer Vision (**ICCV**), 2025  
   
+*   **Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**  
+    Subin Kim, Seoung Wug Oh, Jui-Hsien Wang, Joon-Young Lee, Jinwoo Shin  
+    ICCV 2025 Workshop Findings (**ICCVW-Findings**), 2025  
+
 *   **EntitySAM: Segment Everything in Video**  
     Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee  
     IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
