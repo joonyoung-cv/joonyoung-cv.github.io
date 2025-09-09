@@ -1,7 +1,5 @@
 <!-- I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning. -->  
 
-**Open to Chat.** For informal networking, collaboration, and career discussions, [schedule time](https://cal.com/joonyoung).
-
   
 **Industrial Highlights.**    
 * [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023  
