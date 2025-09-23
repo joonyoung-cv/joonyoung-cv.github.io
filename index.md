@@ -34,7 +34,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
     Seunghyun Shin, Dongmin Shin, Jisu Shin, Hae-Gon Jeon, Joon-Young Lee  
     IEEE International Conference on Computer Vision (**ICCV**), 2025  
   
-*   **Training-Free Acceleration of Video LLMs via Multi-Granular Spatio-Temporal Token Merging**  
+*   **Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**  
     Jeongseok Hyun, Sukjun Hwang, Su Ho Han, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Joon-Young Lee, Seon Joo Kim, Minho Shim  
     IEEE International Conference on Computer Vision (**ICCV**), 2025  
   
