@@ -2,6 +2,8 @@
 
   
 **Industrial Highlights.**    
+* [Object Mask & Shape Mask Tracker](https://www.youtube.com/watch?v=rx-H8On2IBQ) in Premiere Pro, 2025  
+* [Reframe Videos](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/creative-production/best-practices-for-reframe-video-in-creative-production.html) in Firefly, 2025  
 * [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023  
 * [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023  
 * [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022    
