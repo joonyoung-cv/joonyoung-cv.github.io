@@ -2,7 +2,9 @@
 
   
 **Industrial Highlights.**    
-* [Object Mask & Shape Mask Tracker](https://www.youtube.com/watch?v=rx-H8On2IBQ) in Premiere Pro, 2025  
+* [Object Matte](https://youtu.be/VNmg1rULlas) in After Effects (Beta), 2026  
+* [AI-Powered Object Masks](https://youtu.be/OGKbVm94uoE) in Premiere Pro, 2026  
+* [Redesigned Shape Masks](https://youtu.be/OGKbVm94uoE) in Premiere Pro, 2026  
 * [Reframe Videos](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/creative-production/best-practices-for-reframe-video-in-creative-production.html) in Firefly, 2025  
 * [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023  
 * [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023  
@@ -29,6 +31,27 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 ## Publications   
 <sup>(\* indicates equal contribution)</sup>  
+
+### 2026  
+*   **VideoMaMa: Mask-Guided Video Matting via Generative Prior**  
+    Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
+  
+*   **Relightful Video Portrait Harmonization**  
+    Jun Myeong Choi, Jae Shin Yoon, Luchao Qi, Roni Sengupta, Joon-Young Lee  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
+
+*   **DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation**  
+    Tuan Duc Ngo, Jiahui Huang, Seoung Wug Oh, Kevin James Blackburn-Matzen, Evangelos Kalogerakis, Chuang Gan, Joon-Young Lee  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
+
+*   **AnthroTAP: Learning Point Tracking with Real-World Motion**  
+    Inès Hyeonsu Kim, Seokju Cho, Jahyeok Koo, Junghyun Park, Jiahui Huang, Honglak Lee, Joon-Young Lee, Seungryong Kim  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
+
+*   **Generative Video Motion Editing with 3D Point Tracks**  
+    Yao-Chih Lee, Zhoutong Zhang, Jiahui Huang, Jui-Hsien Wang, Joon-Young Lee, Jia-Bin Huang, Eli Shechtman, Zhengqi Li  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
   
 ### 2025  
   
@@ -272,8 +295,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Video Object Segmentation using Space-Time Memory Networks** [[Paper]](assets/paper/19_iccv_video_object.pdf) [[Supp]](assets/paper/19_iccv_video_object_supp.pdf) [[Video]](https://youtu.be/vVZiBEDmgIU)  
     Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
-    IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)  
-    <sub>  
+    IEEE International Conference on Computer Vision (**ICCV**), 2019 (**Oral**)  <br><sub>
     *-This work was demoed at Adobe MAX 2018 Sneaks as [Fast Mask](https://www.youtube.com/watch?v=GPVx4Tg9EZ0).*  
     *-Silver Prize, 25th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
     *-NVIDIA GTC 2019 Top Poster Award*  
@@ -294,8 +316,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks** [[Paper]](assets/paper/19_cvpr_fast_user.pdf) [[Code]](https://github.com/seoungwugoh/ivs-demo)  
     Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim  
-    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
-    <sub>  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  <br><sub>
     *-1st Place Award in The Interactive DAVIS Challenge 2018*  
     </sub>  
   
@@ -305,8 +326,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence** [[Paper]](assets/paper/19_cvpr_deep_blind.pdf) [[Project]](https://sites.google.com/view/bvdnet/) [[Code]](https://github.com/shwoo93/video_decaptioning)  
     Dahun Kim\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
-    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  
-    <sub>  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019  <br><sub>
     *-1st Place Award in ChalearnLAP Inpainting Challenge Track 2 – video decaptioning*  
     </sub>  
   
@@ -342,8 +362,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **BAM: Bottleneck Attention Module** [[Paper]](assets/paper/18_bmvc_bam.pdf) [[Supp]](assets/paper/18_bmvc_bam_supp.pdf) [[Code]](https://sites.google.com/view/bottleneck-attention-module)  
     Jongchan Park\*, Sanghyun Woo\*, Joon-Young Lee, In So Kweon  
-    British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  
-    <sub>  
+    British Machine Vision Conference (**BMVC**), 2018 (**Oral**)  <br><sub>
     *-Gold Prize, 24th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
     </sub>  
   
@@ -412,16 +431,14 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Automatic Content-Aware Color and Tone Stylization** [[Paper]](assets/paper/16_cvpr_automatic_content.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57UDRmakR2YlRWdXM/view?usp=sharing)  
     Joon-Young Lee, Kalyan Sunkavalli, Zhe Lin, Xiaohui Shen, In So Kweon  
-    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**Spotlight**)  
-    <sub>  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016 (**Spotlight**)<br><sub>
     *-This is the technology behind the [Smart Looks](https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html) feature in Photoshop Elements 14.*  
     </sub>  
   
 *   **Stereo Matching with Color and Monochrome Cameras in Low-light Conditions** [[Paper]](assets/paper/16_cvpr_stereo_matching.pdf)  
     Hae-Gon Jeon, Joon-Young Lee, Sunghoon Im, Hyowon Ha, In So Kweon  
-    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016  
-    <sub>  
-    *-Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
+    IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016  <br><sub>
+    *-Silver Prize, 22nd HumanTech Paper Award, Samsung Electronics Co., Ltd.* 
     </sub>  
   
 *   **Vision System and Depth Processing for DRC-HUBO+** [[Paper]](assets/paper/16_icra_vision_system.pdf)  
@@ -436,8 +453,7 @@ This is an one-click creative color adjustment tool. I developed the core techni
   
 *   **Complementary Sets of Shutter Sequences for Motion Deblurring** [[Paper]](assets/paper/15_iccv_complementary_sets.pdf)  
     Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
-    IEEE International Conference on Computer Vision (**ICCV**), 2015  
-    <sub>  
+    IEEE International Conference on Computer Vision (**ICCV**), 2015  <br><sub>
     *-KAIST Research Highlight of 2013*  
     </sub>  
   
@@ -486,12 +502,11 @@ This is an one-click creative color adjustment tool. I developed the core techni
 ### 2013  
 *   **High Quality Shape from a Single RGB-D Image under Uncalibrated Natural Illumination** [[Paper]](assets/paper/13_iccv_high_quality.pdf) [[Data]](https://drive.google.com/file/d/0Bx86UlEPOy57VEpPR0pfemVhVUU/view?usp=sharing) [[Project]](https://sites.google.com/site/jyleecv/rgbd_shape_estimation)  
     Yudeog Han, Joon-Young Lee, In So Kweon  
-    IEEE International Conference on Computer Vision (**ICCV**), 2013  
-    <sub>  
+    IEEE International Conference on Computer Vision (**ICCV**), 2013   <br><sub>
     *-Silver prize, 19th HumanTech Paper Award, Samsung Electronics Co., Ltd.*  
     *-Qualcomm Innovation Award*  
     *-KAIST Research Highlight of 2013*  
-    </sub>  
+    </sub>   
   
 *   **Fluttering Pattern Generation using Modified Legendre Sequence for Coded Exposure Imaging** [[Paper]](assets/paper/13_iccv_fluttering_pattern.pdf) [[Supp]](assets/paper/13_iccv_fluttering_pattern_supple.pdf)  
     Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon  
