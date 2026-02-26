@@ -14,8 +14,8 @@
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/firefly.svg" class="icon" /> [Reframe Videos](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/creative-production/best-practices-for-reframe-video-in-creative-production.html) in Firefly, 2025  
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" class="icon" /> [Next-Gen Roto Brush](https://community.adobe.com/t5/after-effects-beta-discussions/next-gen-rotobrush-now-available-in-the-after-effects-beta/td-p/13984477) in After Effects, 2023  
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/express.svg" class="icon" /> [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023  
-* <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg" class="icon" /> [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022    
-* <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/stock.svg" class="icon" /> [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021    
+* <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022    
+* <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021    
 * <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [Tech Excellence Award](#) at Adobe, 2021    
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*    
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" class="icon" /> [Roto Brush 2](https://youtu.be/FsSazQ1pRBU) in After Effects, 2020    
