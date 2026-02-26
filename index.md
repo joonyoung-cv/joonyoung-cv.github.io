@@ -16,12 +16,12 @@
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/express.svg" class="icon" /> [Remove Video Background](https://www.youtube.com/watch?v=sFtZEF-jiKI) in Adobe Express, 2023  
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg" class="icon" /> [#InstantAdd](https://youtu.be/sipTWng77nM) at Adobe MAX Sneaks, 2022    
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/stock.svg" class="icon" /> [Shot Angle/Size Filters](https://blog.adobe.com/en/publish/2021/10/26/whats-new-adobe-stock-2021) in Adobe Stock, 2021    
-* <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg" class="icon" /> [Tech Excellence Award](#) at Adobe, 2021    
+* <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [Tech Excellence Award](#) at Adobe, 2021    
 I received Tech Excellence Award at Adobe, given to ten technical employees at most each year. - *This is a peer-nominated award for employees who have made exceptional technical contributions to support our business.*    
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" class="icon" /> [Roto Brush 2](https://youtu.be/FsSazQ1pRBU) in After Effects, 2020    
 This is an object masking tool for video. The core technology behind this feature is ML-based mask propagation, which I led the research and development.      
-* <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg" class="icon" /> [#ProjectFastmask](https://youtu.be/GPVx4Tg9EZ0) at Adobe MAX Sneaks, 2018    
-* <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg" class="icon" /> [Video Smart Tags](https://medium.com/adobetech/how-adobes-enhanced-smart-tags-capability-empowers-marketers-to-find-the-most-relevant-ugc-video-44a50f3ba6c2) in Adobe Experience Manager UGC, 2018    
+* <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [#ProjectFastmask](https://youtu.be/GPVx4Tg9EZ0) at Adobe MAX Sneaks, 2018    
+* <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" /> [Video Smart Tags](https://medium.com/adobetech/how-adobes-enhanced-smart-tags-capability-empowers-marketers-to-find-the-most-relevant-ugc-video-44a50f3ba6c2) in Adobe Experience Manager UGC, 2018    
 This is a video auto-tagging feature that I contributed.    
 * <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-elements.svg" class="icon" /> [Smart Looks](https://helpx.adobe.com/photoshop-elements/how-to/apply-effects-smart-looks.html) in Photoshop Elements, 2016    
 This is an one-click creative color adjustment tool. I developed the core technique behind this feature.    
